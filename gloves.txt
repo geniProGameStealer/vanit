@@ -1,0 +1,450 @@
+[
+	[
+		{
+			"id" : 10057,
+			"image_path" : "resource/flash/econ/default_generated/studded_hydra_gloves_bloodhound_hydra_black_green_light_large.png",
+			"name" : "Emerald",
+			"rarity" : 6
+		},
+		{
+			"id" : 10058,
+			"image_path" : "resource/flash/econ/default_generated/studded_hydra_gloves_bloodhound_hydra_green_leather_mesh_brass_light_large.png",
+			"name" : "Mangrove",
+			"rarity" : 6
+		},
+		{
+			"id" : 10059,
+			"image_path" : "resource/flash/econ/default_generated/studded_hydra_gloves_bloodhound_hydra_snakeskin_brass_light_large.png",
+			"name" : "Rattler",
+			"rarity" : 6
+		},
+		{
+			"id" : 10060,
+			"image_path" : "resource/flash/econ/default_generated/studded_hydra_gloves_bloodhound_hydra_case_hardened_light_large.png",
+			"name" : "Case Hardened",
+			"rarity" : 6
+		}
+	],
+	[
+		{
+			"id" : 10009,
+			"image_path" : "resource/flash/econ/default_generated/leather_handwraps_handwrap_leathery_light_large.png",
+			"name" : "Leather",
+			"rarity" : 6
+		},
+		{
+			"id" : 10010,
+			"image_path" : "resource/flash/econ/default_generated/leather_handwraps_handwrap_camo_grey_light_large.png",
+			"name" : "Spruce DDPAT",
+			"rarity" : 6
+		},
+		{
+			"id" : 10021,
+			"image_path" : "resource/flash/econ/default_generated/leather_handwraps_handwrap_red_slaughter_light_large.png",
+			"name" : "Slaughter",
+			"rarity" : 6
+		},
+		{
+			"id" : 10036,
+			"image_path" : "resource/flash/econ/default_generated/leather_handwraps_handwrap_fabric_orange_camo_light_large.png",
+			"name" : "Badlands",
+			"rarity" : 6
+		},
+		{
+			"id" : 10053,
+			"image_path" : "resource/flash/econ/default_generated/leather_handwraps_handwrap_leathery_fabric_blue_skulls_light_large.png",
+			"name" : "Cobalt Skulls",
+			"rarity" : 6
+		},
+		{
+			"id" : 10054,
+			"image_path" : "resource/flash/econ/default_generated/leather_handwraps_handwrap_leathery_fabric_geometric_blue_light_large.png",
+			"name" : "Overprint",
+			"rarity" : 6
+		},
+		{
+			"id" : 10055,
+			"image_path" : "resource/flash/econ/default_generated/leather_handwraps_handwrap_leathery_ducttape_light_large.png",
+			"name" : "Duct Tape",
+			"rarity" : 6
+		},
+		{
+			"id" : 10056,
+			"image_path" : "resource/flash/econ/default_generated/leather_handwraps_handwrap_leathery_fabric_green_camo_light_large.png",
+			"name" : "Arboreal",
+			"rarity" : 6
+		},
+		{
+			"id" : 10081,
+			"image_path" : "resource/flash/econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_light_large.png",
+			"name" : "Desert Shamagh",
+			"rarity" : 6
+		},
+		{
+			"id" : 10082,
+			"image_path" : "resource/flash/econ/default_generated/leather_handwraps_handwrap_leathery_fabric_giraffe_light_large.png",
+			"name" : "Giraffe",
+			"rarity" : 6
+		},
+		{
+			"id" : 10083,
+			"image_path" : "resource/flash/econ/default_generated/leather_handwraps_handwrap_leathery_snakeskin_orange_light_large.png",
+			"name" : "Constrictor",
+			"rarity" : 6
+		},
+		{
+			"id" : 10084,
+			"image_path" : "resource/flash/econ/default_generated/leather_handwraps_handwrap_leathery_caution_light_large.png",
+			"name" : "CAUTION!",
+			"rarity" : 6
+		}
+	],
+	[
+		{
+			"id" : 10024,
+			"image_path" : "resource/flash/econ/default_generated/motorcycle_gloves_motorcycle_basic_black_light_large.png",
+			"name" : "Eclipse",
+			"rarity" : 6
+		},
+		{
+			"id" : 10026,
+			"image_path" : "resource/flash/econ/default_generated/motorcycle_gloves_motorcycle_mint_triangle_light_large.png",
+			"name" : "Spearmint",
+			"rarity" : 6
+		},
+		{
+			"id" : 10027,
+			"image_path" : "resource/flash/econ/default_generated/motorcycle_gloves_motorcycle_mono_boom_light_large.png",
+			"name" : "Boom!",
+			"rarity" : 6
+		},
+		{
+			"id" : 10028,
+			"image_path" : "resource/flash/econ/default_generated/motorcycle_gloves_motorcycle_triangle_blue_light_large.png",
+			"name" : "Cool Mint",
+			"rarity" : 6
+		},
+		{
+			"id" : 10049,
+			"image_path" : "resource/flash/econ/default_generated/motorcycle_gloves_motorcycle_choco_boom_light_large.png",
+			"name" : "POW!",
+			"rarity" : 6
+		},
+		{
+			"id" : 10050,
+			"image_path" : "resource/flash/econ/default_generated/motorcycle_gloves_motorcycle_basic_green_orange_light_large.png",
+			"name" : "Turtle",
+			"rarity" : 6
+		},
+		{
+			"id" : 10051,
+			"image_path" : "resource/flash/econ/default_generated/motorcycle_gloves_motorcycle_yellow_camo_light_large.png",
+			"name" : "Transport",
+			"rarity" : 6
+		},
+		{
+			"id" : 10052,
+			"image_path" : "resource/flash/econ/default_generated/motorcycle_gloves_motorcycle_trigrid_blue_light_large.png",
+			"name" : "Polygon",
+			"rarity" : 6
+		},
+		{
+			"id" : 10077,
+			"image_path" : "resource/flash/econ/default_generated/motorcycle_gloves_motorcycle_checker_flag_blue_green_light_large.png",
+			"name" : "Finish Line",
+			"rarity" : 6
+		},
+		{
+			"id" : 10078,
+			"image_path" : "resource/flash/econ/default_generated/motorcycle_gloves_motorcycle_smoke_light_large.png",
+			"name" : "Smoke Out",
+			"rarity" : 6
+		},
+		{
+			"id" : 10079,
+			"image_path" : "resource/flash/econ/default_generated/motorcycle_gloves_motorcycle_carbonfiber_red_light_large.png",
+			"name" : "Blood Pressure",
+			"rarity" : 6
+		},
+		{
+			"id" : 10080,
+			"image_path" : "resource/flash/econ/default_generated/motorcycle_gloves_motorcycle_commando_ksk_light_large.png",
+			"name" : "3rd Commando Company",
+			"rarity" : 6
+		}
+	],
+	[
+		{
+			"id" : 10013,
+			"image_path" : "resource/flash/econ/default_generated/slick_gloves_slick_black_light_large.png",
+			"name" : "Lunar Weave",
+			"rarity" : 6
+		},
+		{
+			"id" : 10015,
+			"image_path" : "resource/flash/econ/default_generated/slick_gloves_slick_military_light_large.png",
+			"name" : "Convoy",
+			"rarity" : 6
+		},
+		{
+			"id" : 10016,
+			"image_path" : "resource/flash/econ/default_generated/slick_gloves_slick_red_light_large.png",
+			"name" : "Crimson Weave",
+			"rarity" : 6
+		},
+		{
+			"id" : 10040,
+			"image_path" : "resource/flash/econ/default_generated/slick_gloves_slick_snakeskin_yellow_light_large.png",
+			"name" : "Diamondback",
+			"rarity" : 6
+		},
+		{
+			"id" : 10041,
+			"image_path" : "resource/flash/econ/default_generated/slick_gloves_slick_snakeskin_white_light_large.png",
+			"name" : "King Snake",
+			"rarity" : 6
+		},
+		{
+			"id" : 10042,
+			"image_path" : "resource/flash/econ/default_generated/slick_gloves_slick_plaid_purple_light_large.png",
+			"name" : "Imperial Plaid",
+			"rarity" : 6
+		},
+		{
+			"id" : 10043,
+			"image_path" : "resource/flash/econ/default_generated/slick_gloves_slick_stitched_black_orange_light_large.png",
+			"name" : "Overtake",
+			"rarity" : 6
+		},
+		{
+			"id" : 10044,
+			"image_path" : "resource/flash/econ/default_generated/slick_gloves_slick_stitched_green_grey_light_large.png",
+			"name" : "Racing Green",
+			"rarity" : 6
+		},
+		{
+			"id" : 10069,
+			"image_path" : "resource/flash/econ/default_generated/slick_gloves_slick_rezan_light_large.png",
+			"name" : "Rezan the Red",
+			"rarity" : 6
+		},
+		{
+			"id" : 10070,
+			"image_path" : "resource/flash/econ/default_generated/slick_gloves_slick_jaguar_white_light_large.png",
+			"name" : "Snow Leopard",
+			"rarity" : 6
+		},
+		{
+			"id" : 10071,
+			"image_path" : "resource/flash/econ/default_generated/slick_gloves_slick_jaguar_yellow_light_large.png",
+			"name" : "Queen Jaguar",
+			"rarity" : 6
+		},
+		{
+			"id" : 10072,
+			"image_path" : "resource/flash/econ/default_generated/slick_gloves_slick_stitched_black_white_light_large.png",
+			"name" : "Black Tie",
+			"rarity" : 6
+		}
+	],
+	[
+		{
+			"id" : 10030,
+			"image_path" : "resource/flash/econ/default_generated/specialist_gloves_specialist_ddpat_green_camo_light_large.png",
+			"name" : "Forest DDPAT",
+			"rarity" : 6
+		},
+		{
+			"id" : 10033,
+			"image_path" : "resource/flash/econ/default_generated/specialist_gloves_specialist_kimono_diamonds_red_light_large.png",
+			"name" : "Crimson Kimono",
+			"rarity" : 6
+		},
+		{
+			"id" : 10034,
+			"image_path" : "resource/flash/econ/default_generated/specialist_gloves_specialist_emerald_web_light_large.png",
+			"name" : "Emerald Web",
+			"rarity" : 6
+		},
+		{
+			"id" : 10035,
+			"image_path" : "resource/flash/econ/default_generated/specialist_gloves_specialist_orange_white_light_large.png",
+			"name" : "Foundation",
+			"rarity" : 6
+		},
+		{
+			"id" : 10061,
+			"image_path" : "resource/flash/econ/default_generated/specialist_gloves_specialist_webs_red_light_large.png",
+			"name" : "Crimson Web",
+			"rarity" : 6
+		},
+		{
+			"id" : 10062,
+			"image_path" : "resource/flash/econ/default_generated/specialist_gloves_specialist_forest_brown_light_large.png",
+			"name" : "Buckshot",
+			"rarity" : 6
+		},
+		{
+			"id" : 10063,
+			"image_path" : "resource/flash/econ/default_generated/specialist_gloves_specialist_fade_light_large.png",
+			"name" : "Fade",
+			"rarity" : 6
+		},
+		{
+			"id" : 10064,
+			"image_path" : "resource/flash/econ/default_generated/specialist_gloves_specialist_winterhex_light_large.png",
+			"name" : "Mogul",
+			"rarity" : 6
+		},
+		{
+			"id" : 10065,
+			"image_path" : "resource/flash/econ/default_generated/specialist_gloves_specialist_marble_fade_light_large.png",
+			"name" : "Marble Fade",
+			"rarity" : 6
+		},
+		{
+			"id" : 10066,
+			"image_path" : "resource/flash/econ/default_generated/specialist_gloves_specialist_ricksaw_camo_light_large.png",
+			"name" : "Lt. Commander",
+			"rarity" : 6
+		},
+		{
+			"id" : 10067,
+			"image_path" : "resource/flash/econ/default_generated/specialist_gloves_specialist_tiger_orange_light_large.png",
+			"name" : "Tiger Strike",
+			"rarity" : 6
+		},
+		{
+			"id" : 10068,
+			"image_path" : "resource/flash/econ/default_generated/specialist_gloves_specialist_fbi_light_large.png",
+			"name" : "Field Agent",
+			"rarity" : 6
+		}
+	],
+	[
+		{
+			"id" : 10018,
+			"image_path" : "resource/flash/econ/default_generated/sporty_gloves_sporty_light_blue_light_large.png",
+			"name" : "Superconductor",
+			"rarity" : 6
+		},
+		{
+			"id" : 10019,
+			"image_path" : "resource/flash/econ/default_generated/sporty_gloves_sporty_military_light_large.png",
+			"name" : "Arid",
+			"rarity" : 6
+		},
+		{
+			"id" : 10037,
+			"image_path" : "resource/flash/econ/default_generated/sporty_gloves_sporty_purple_light_large.png",
+			"name" : "Pandora's Box",
+			"rarity" : 6
+		},
+		{
+			"id" : 10038,
+			"image_path" : "resource/flash/econ/default_generated/sporty_gloves_sporty_green_light_large.png",
+			"name" : "Hedge Maze",
+			"rarity" : 6
+		},
+		{
+			"id" : 10045,
+			"image_path" : "resource/flash/econ/default_generated/sporty_gloves_sporty_poison_frog_blue_white_light_large.png",
+			"name" : "Amphibious",
+			"rarity" : 6
+		},
+		{
+			"id" : 10046,
+			"image_path" : "resource/flash/econ/default_generated/sporty_gloves_sporty_poison_frog_red_green_light_large.png",
+			"name" : "Bronze Morph",
+			"rarity" : 6
+		},
+		{
+			"id" : 10047,
+			"image_path" : "resource/flash/econ/default_generated/sporty_gloves_sporty_black_webbing_yellow_light_large.png",
+			"name" : "Omega",
+			"rarity" : 6
+		},
+		{
+			"id" : 10048,
+			"image_path" : "resource/flash/econ/default_generated/sporty_gloves_sporty_blue_pink_light_large.png",
+			"name" : "Vice",
+			"rarity" : 6
+		},
+		{
+			"id" : 10073,
+			"image_path" : "resource/flash/econ/default_generated/sporty_gloves_sporty_slingshot_light_large.png",
+			"name" : "Slingshot",
+			"rarity" : 6
+		},
+		{
+			"id" : 10074,
+			"image_path" : "resource/flash/econ/default_generated/sporty_gloves_sporty_hunter_light_large.png",
+			"name" : "Big Game",
+			"rarity" : 6
+		},
+		{
+			"id" : 10075,
+			"image_path" : "resource/flash/econ/default_generated/sporty_gloves_sporty_houndstooth_red_light_large.png",
+			"name" : "Scarlet Shamagh",
+			"rarity" : 6
+		},
+		{
+			"id" : 10076,
+			"image_path" : "resource/flash/econ/default_generated/sporty_gloves_sporty_jaguar_light_large.png",
+			"name" : "Nocts",
+			"rarity" : 6
+		}
+	],
+	[
+		{
+			"id" : 10006,
+			"image_path" : "resource/flash/econ/default_generated/studded_bloodhound_gloves_bloodhound_black_silver_light_large.png",
+			"name" : "Charred",
+			"rarity" : 6
+		},
+		{
+			"id" : 10007,
+			"image_path" : "resource/flash/econ/default_generated/studded_bloodhound_gloves_bloodhound_snakeskin_brass_light_large.png",
+			"name" : "Snakebite",
+			"rarity" : 6
+		},
+		{
+			"id" : 10008,
+			"image_path" : "resource/flash/econ/default_generated/studded_bloodhound_gloves_bloodhound_metallic_light_large.png",
+			"name" : "Bronzed",
+			"rarity" : 6
+		},
+		{
+			"id" : 10039,
+			"image_path" : "resource/flash/econ/default_generated/studded_bloodhound_gloves_bloodhound_guerrilla_light_large.png",
+			"name" : "Guerrilla",
+			"rarity" : 6
+		}
+	],
+	[
+		{
+			"id" : 10085,
+			"image_path" : "resource/flash/econ/default_generated/studded_brokenfang_gloves_operation10_metalic_green_light_large.png",
+			"name" : "Jade",
+			"rarity" : 6
+		},
+		{
+			"id" : 10086,
+			"image_path" : "resource/flash/econ/default_generated/studded_brokenfang_gloves_operation10_poison_frog_black_yellow_light_large.png",
+			"name" : "Yellow-banded",
+			"rarity" : 6
+		},
+		{
+			"id" : 10087,
+			"image_path" : "resource/flash/econ/default_generated/studded_brokenfang_gloves_operation10_floral_light_large.png",
+			"name" : "Needle Point",
+			"rarity" : 6
+		},
+		{
+			"id" : 10088,
+			"image_path" : "resource/flash/econ/default_generated/studded_brokenfang_gloves_operation10_snakeskin_black_light_large.png",
+			"name" : "Unhinged",
+			"rarity" : 6
+		}
+	]
+]

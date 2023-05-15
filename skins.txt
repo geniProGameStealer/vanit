@@ -1,0 +1,6628 @@
+[
+	[
+		{
+			"id" : 14,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_hy_ak47lam_light_large.png",
+			"name" : "Red Laminate",
+			"rarity" : 4
+		},
+		{
+			"id" : 44,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_aq_oiled_light_large.png",
+			"name" : "Case Hardened",
+			"rarity" : 4
+		},
+		{
+			"id" : 72,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_sp_mesh_tan_light_large.png",
+			"name" : "Safari Mesh",
+			"rarity" : 1
+		},
+		{
+			"id" : 122,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_sp_spray_jungle_light_large.png",
+			"name" : "Jungle Spray",
+			"rarity" : 1
+		},
+		{
+			"id" : 170,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_sp_zebracam_light_large.png",
+			"name" : "Predator",
+			"rarity" : 1
+		},
+		{
+			"id" : 172,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_hy_ak47lam_bw_light_large.png",
+			"name" : "Black Laminate",
+			"rarity" : 2
+		},
+		{
+			"id" : 180,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_fireserpent_ak47_bravo_light_large.png",
+			"name" : "Fire Serpent",
+			"rarity" : 5
+		},
+		{
+			"id" : 226,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_hy_ak47lam_blue_light_large.png",
+			"name" : "Blue Laminate",
+			"rarity" : 3
+		},
+		{
+			"id" : 282,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak47_cobra_light_large.png",
+			"name" : "Redline",
+			"rarity" : 4
+		},
+		{
+			"id" : 300,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_pinstripe_ak47_light_large.png",
+			"name" : "Emerald Pinstripe",
+			"rarity" : 3
+		},
+		{
+			"id" : 302,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak47_rubber_light_large.png",
+			"name" : "Vulcan",
+			"rarity" : 5
+		},
+		{
+			"id" : 316,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_panther_ak47_light_large.png",
+			"name" : "Jaguar",
+			"rarity" : 5
+		},
+		{
+			"id" : 340,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_well_traveled_ak47_light_large.png",
+			"name" : "Jet Set",
+			"rarity" : 4
+		},
+		{
+			"id" : 341,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_green_leather_ak47_light_large.png",
+			"name" : "First Class",
+			"rarity" : 3
+		},
+		{
+			"id" : 380,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_tribute_ak47_light_large.png",
+			"name" : "Wasteland Rebel",
+			"rarity" : 5
+		},
+		{
+			"id" : 394,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_aq_ak47_cartel_light_large.png",
+			"name" : "Cartel",
+			"rarity" : 4
+		},
+		{
+			"id" : 422,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak47_mastery_light_large.png",
+			"name" : "Elite Build",
+			"rarity" : 2
+		},
+		{
+			"id" : 456,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_am_bamboo_jungle_light_large.png",
+			"name" : "Hydroponic",
+			"rarity" : 4
+		},
+		{
+			"id" : 474,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak47_courage_alt_light_large.png",
+			"name" : "Aquamarine Revenge",
+			"rarity" : 5
+		},
+		{
+			"id" : 490,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak47_winter_sport_light_large.png",
+			"name" : "Frontside Misty",
+			"rarity" : 4
+		},
+		{
+			"id" : 506,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak47_point_disarray_light_large.png",
+			"name" : "Point Disarray",
+			"rarity" : 4
+		},
+		{
+			"id" : 524,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_gs_ak47_supercharged_light_large.png",
+			"name" : "Fuel Injector",
+			"rarity" : 5
+		},
+		{
+			"id" : 795,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_hy_mesh_safetyorange_light_large.png",
+			"name" : "Safety Net",
+			"rarity" : 3
+		},
+		{
+			"id" : 600,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak47_anarchy_light_large.png",
+			"name" : "Neon Revolution",
+			"rarity" : 5
+		},
+		{
+			"id" : 639,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_gs_ak47_bloodsport_light_large.png",
+			"name" : "Bloodsport",
+			"rarity" : 5
+		},
+		{
+			"id" : 656,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_gs_ak_colony01_red_light_large.png",
+			"name" : "Orbit Mk01",
+			"rarity" : 3
+		},
+		{
+			"id" : 675,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_gs_ak47_empress_light_large.png",
+			"name" : "The Empress",
+			"rarity" : 5
+		},
+		{
+			"id" : 707,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak_neon_rider_light_large.png",
+			"name" : "Neon Rider",
+			"rarity" : 5
+		},
+		{
+			"id" : 724,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak_island_floral_light_large.png",
+			"name" : "Wild Lotus",
+			"rarity" : 5
+		},
+		{
+			"id" : 745,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_hy_veneto_purple_light_large.png",
+			"name" : "Baroque Purple",
+			"rarity" : 1
+		},
+		{
+			"id" : 801,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak47_asiimov_light_large.png",
+			"name" : "Asiimov",
+			"rarity" : 5
+		},
+		{
+			"id" : 836,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak47_aztec_light_large.png",
+			"name" : "Uncharted",
+			"rarity" : 2
+		},
+		{
+			"id" : 885,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_gs_ak47_nibbler_light_large.png",
+			"name" : "Rat Rod",
+			"rarity" : 3
+		},
+		{
+			"id" : 921,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_gs_ak47_gold_arabesque_light_large.png",
+			"name" : "Gold Arabesque",
+			"rarity" : 5
+		},
+		{
+			"id" : 941,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak-47_phantom_disruptor_light_large.png",
+			"name" : "Phantom Disruptor",
+			"rarity" : 4
+		},
+		{
+			"id" : 959,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak47_anubis_light_large.png",
+			"name" : "Legion of Anubis",
+			"rarity" : 5
+		},
+		{
+			"id" : 1004,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak_xray_light_large.png",
+			"name" : "X-Ray",
+			"rarity" : 5
+		},
+		{
+			"id" : 1018,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak_jaguar_light_large.png",
+			"name" : "Panthera onca",
+			"rarity" : 4
+		},
+		{
+			"id" : 1035,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_gs_ak47_professional_light_large.png",
+			"name" : "Slate",
+			"rarity" : 3
+		},
+		{
+			"id" : 1070,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_hy_ak47lam_green_light_large.png",
+			"name" : "Green Laminate",
+			"rarity" : 2
+		},
+		{
+			"id" : 1087,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_gs_ak47_abstract_light_large.png",
+			"name" : "Leet Museo",
+			"rarity" : 5
+		},
+		{
+			"id" : 1141,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ak47_cu_ak47_nightwish_light_large.png",
+			"name" : "Nightwish",
+			"rarity" : 5
+		}
+	],
+	[
+		{
+			"id" : 9,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_hy_tiger_light_large.png",
+			"name" : "Bengal Tiger",
+			"rarity" : 5
+		},
+		{
+			"id" : 10,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_hy_copperhead_light_large.png",
+			"name" : "Copperhead",
+			"rarity" : 3
+		},
+		{
+			"id" : 33,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_an_red_light_large.png",
+			"name" : "Hot Rod",
+			"rarity" : 3
+		},
+		{
+			"id" : 46,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_so_pmc_light_large.png",
+			"name" : "Contractor",
+			"rarity" : 1
+		},
+		{
+			"id" : 47,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_so_space_marine_light_large.png",
+			"name" : "Colony",
+			"rarity" : 1
+		},
+		{
+			"id" : 73,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_hy_feathers_aug_light_large.png",
+			"name" : "Wings",
+			"rarity" : 3
+		},
+		{
+			"id" : 100,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_so_stormfront_light_large.png",
+			"name" : "Storm",
+			"rarity" : 1
+		},
+		{
+			"id" : 110,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_sp_mesh_forest_fire_light_large.png",
+			"name" : "Condemned",
+			"rarity" : 2
+		},
+		{
+			"id" : 197,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_an_navy_bravo_light_large.png",
+			"name" : "Anodized Navy",
+			"rarity" : 3
+		},
+		{
+			"id" : 246,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_aa_fade_metallic_light_large.png",
+			"name" : "Amber Fade",
+			"rarity" : 3
+		},
+		{
+			"id" : 280,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_cu_aug_chameleonaire_light_large.png",
+			"name" : "Chameleon",
+			"rarity" : 6
+		},
+		{
+			"id" : 305,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_cu_aug_progressiv_light_large.png",
+			"name" : "Torque",
+			"rarity" : 4
+		},
+		{
+			"id" : 375,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_sp_nukestripe_orange_aug_light_large.png",
+			"name" : "Radiation Hazard",
+			"rarity" : 2
+		},
+		{
+			"id" : 444,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_sp_labyrinth3_light_large.png",
+			"name" : "Daedalus",
+			"rarity" : 1
+		},
+		{
+			"id" : 455,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_cu_anime_aug_light_large.png",
+			"name" : "Akihabara Accept",
+			"rarity" : 6
+		},
+		{
+			"id" : 507,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_am_aug_jumble_light_large.png",
+			"name" : "Ricochet",
+			"rarity" : 3
+		},
+		{
+			"id" : 779,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_am_circuitboard_orange_light_large.png",
+			"name" : "Random Access",
+			"rarity" : 4
+		},
+		{
+			"id" : 794,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_sp_mesh_safetyblack_light_large.png",
+			"name" : "Sweeper",
+			"rarity" : 1
+		},
+		{
+			"id" : 541,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_cu_aug_swallows_light_large.png",
+			"name" : "Fleet Flock",
+			"rarity" : 5
+		},
+		{
+			"id" : 583,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_gs_aug_aristocrat_light_large.png",
+			"name" : "Aristocrat",
+			"rarity" : 4
+		},
+		{
+			"id" : 601,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_gs_aug_syd_mead_light_large.png",
+			"name" : "Syd Mead",
+			"rarity" : 5
+		},
+		{
+			"id" : 674,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_cu_aug_orange_triangle_light_large.png",
+			"name" : "Triqua",
+			"rarity" : 3
+		},
+		{
+			"id" : 690,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_gs_aug_stymphalian_birds_light_large.png",
+			"name" : "Stymphalian",
+			"rarity" : 5
+		},
+		{
+			"id" : 708,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_hy_aug_torn_orange_light_large.png",
+			"name" : "Amber Slipstream",
+			"rarity" : 3
+		},
+		{
+			"id" : 727,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_am_bloom_blue_light_large.png",
+			"name" : "Midnight Lily",
+			"rarity" : 4
+		},
+		{
+			"id" : 740,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_hy_murano_blue_light_large.png",
+			"name" : "Navy Murano",
+			"rarity" : 1
+		},
+		{
+			"id" : 758,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_am_jorm_orange_light_large.png",
+			"name" : "Flame JÃƒÂ¶rmungandr",
+			"rarity" : 4
+		},
+		{
+			"id" : 845,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_cu_aug_momentum_light_large.png",
+			"name" : "Momentum",
+			"rarity" : 5
+		},
+		{
+			"id" : 886,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_cu_aug_whitefang_light_large.png",
+			"name" : "Arctic Wolf",
+			"rarity" : 4
+		},
+		{
+			"id" : 913,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_am_aug_death_by_doggy_light_large.png",
+			"name" : "Death by Puppy",
+			"rarity" : 5
+		},
+		{
+			"id" : 927,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_hy_dry_wood_light_large.png",
+			"name" : "Spalted Wood",
+			"rarity" : 2
+		},
+		{
+			"id" : 823,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_gs_aug_sand_storm_light_large.png",
+			"name" : "Sand Storm",
+			"rarity" : 4
+		},
+		{
+			"id" : 942,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_gs_aug_thunderstorm_light_large.png",
+			"name" : "Tom Cat",
+			"rarity" : 3
+		},
+		{
+			"id" : 995,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_am_intelligence_grey_light_large.png",
+			"name" : "Surveillance",
+			"rarity" : 1
+		},
+		{
+			"id" : 1033,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_am_jade_light_large.png",
+			"name" : "Carved Jade",
+			"rarity" : 3
+		},
+		{
+			"id" : 1088,
+			"image_path" : "resource/flash/econ/default_generated/weapon_aug_gs_aug_plague_light_large.png",
+			"name" : "Plague",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 30,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_sp_snake_light_large.png",
+			"name" : "Snake Camo",
+			"rarity" : 2
+		},
+		{
+			"id" : 51,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_am_lightning_awp_light_large.png",
+			"name" : "Lightning Strike",
+			"rarity" : 5
+		},
+		{
+			"id" : 72,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_sp_mesh_tan_light_large.png",
+			"name" : "Safari Mesh",
+			"rarity" : 1
+		},
+		{
+			"id" : 84,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_hy_ddpat_pink_light_large.png",
+			"name" : "Pink DDPAT",
+			"rarity" : 3
+		},
+		{
+			"id" : 174,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_hy_blam_simple_light_large.png",
+			"name" : "BOOM",
+			"rarity" : 4
+		},
+		{
+			"id" : 181,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_favela_awp_light_large.png",
+			"name" : "Corticera",
+			"rarity" : 4
+		},
+		{
+			"id" : 212,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_am_crumple_bravo_light_large.png",
+			"name" : "Graphite",
+			"rarity" : 4
+		},
+		{
+			"id" : 227,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_hy_hive_light_large.png",
+			"name" : "Electric Hive",
+			"rarity" : 4
+		},
+		{
+			"id" : 251,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_hy_snakeskin_light_large.png",
+			"name" : "Pit Viper",
+			"rarity" : 3
+		},
+		{
+			"id" : 259,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_awp_cobra_light_large.png",
+			"name" : "Redline",
+			"rarity" : 4
+		},
+		{
+			"id" : 279,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_awp_asimov_light_large.png",
+			"name" : "Asiimov",
+			"rarity" : 5
+		},
+		{
+			"id" : 344,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_medieval_dragon_awp_light_large.png",
+			"name" : "Dragon Lore",
+			"rarity" : 5
+		},
+		{
+			"id" : 395,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_am_awp_glory_light_large.png",
+			"name" : "Man-o'-war",
+			"rarity" : 5
+		},
+		{
+			"id" : 424,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_aq_awp_twine_light_large.png",
+			"name" : "Worm God",
+			"rarity" : 3
+		},
+		{
+			"id" : 446,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_medusa_awp_light_large.png",
+			"name" : "Medusa",
+			"rarity" : 5
+		},
+		{
+			"id" : 451,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_hy_zodiac2_light_large.png",
+			"name" : "Sun in Leo",
+			"rarity" : 1
+		},
+		{
+			"id" : 475,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_awp_hyper_beast_light_large.png",
+			"name" : "Hyper Beast",
+			"rarity" : 5
+		},
+		{
+			"id" : 525,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_awp_mastery_light_large.png",
+			"name" : "Elite Build",
+			"rarity" : 4
+		},
+		{
+			"id" : 788,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_hy_nuclear_skulls_redblue_light_large.png",
+			"name" : "Acheron",
+			"rarity" : 2
+		},
+		{
+			"id" : 584,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_gs_awp_phobos_light_large.png",
+			"name" : "Phobos",
+			"rarity" : 3
+		},
+		{
+			"id" : 640,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_awp_psychopath_light_large.png",
+			"name" : "Fever Dream",
+			"rarity" : 4
+		},
+		{
+			"id" : 662,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_awp_hannya_light_large.png",
+			"name" : "Oni Taiji",
+			"rarity" : 5
+		},
+		{
+			"id" : 691,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_gs_awp_death_light_large.png",
+			"name" : "Mortis",
+			"rarity" : 4
+		},
+		{
+			"id" : 718,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_am_awp_pawpaw_light_large.png",
+			"name" : "PAW",
+			"rarity" : 3
+		},
+		{
+			"id" : 736,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_gs_awp_enamel_light_large.png",
+			"name" : "The Prince",
+			"rarity" : 5
+		},
+		{
+			"id" : 756,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_gs_awp_gungnir_light_large.png",
+			"name" : "Gungnir",
+			"rarity" : 5
+		},
+		{
+			"id" : 803,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_awp_neonoir_light_large.png",
+			"name" : "Neo-Noir",
+			"rarity" : 5
+		},
+		{
+			"id" : 838,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_awp_viper_light_large.png",
+			"name" : "Atheris",
+			"rarity" : 3
+		},
+		{
+			"id" : 887,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_awp_virus_light_large.png",
+			"name" : "Containment Breach",
+			"rarity" : 5
+		},
+		{
+			"id" : 917,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_awp_wildfire_light_large.png",
+			"name" : "Wildfire",
+			"rarity" : 5
+		},
+		{
+			"id" : 819,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_gs_awp_hydra_light_large.png",
+			"name" : "Desert Hydra",
+			"rarity" : 5
+		},
+		{
+			"id" : 943,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_cu_awp_vein_light_large.png",
+			"name" : "Capillary",
+			"rarity" : 2
+		},
+		{
+			"id" : 975,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_gs_awp_exoskeleton_light_large.png",
+			"name" : "Exoskeleton",
+			"rarity" : 3
+		},
+		{
+			"id" : 1026,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_aa_awp_fade_light_large.png",
+			"name" : "Fade",
+			"rarity" : 5
+		},
+		{
+			"id" : 1029,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_am_tigers_blue_light_large.png",
+			"name" : "Silk Tiger",
+			"rarity" : 4
+		},
+		{
+			"id" : 1058,
+			"image_path" : "resource/flash/econ/default_generated/weapon_awp_hy_technowar_rwb_light_large.png",
+			"name" : "POP AWP",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 12,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_hy_webs_light_large.png",
+			"name" : "Crimson Web",
+			"rarity" : 3
+		},
+		{
+			"id" : 32,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_an_silver_light_large.png",
+			"name" : "Silver",
+			"rarity" : 2
+		},
+		{
+			"id" : 147,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_sp_tape_short_jungle_light_large.png",
+			"name" : "Jungle Dashed",
+			"rarity" : 1
+		},
+		{
+			"id" : 218,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_hy_bluehex_light_large.png",
+			"name" : "Hexane",
+			"rarity" : 3
+		},
+		{
+			"id" : 268,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_am_diamond_plate_light_large.png",
+			"name" : "Tread Plate",
+			"rarity" : 4
+		},
+		{
+			"id" : 269,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_am_fuschia_light_large.png",
+			"name" : "The Fuschia Is Now",
+			"rarity" : 5
+		},
+		{
+			"id" : 270,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_aq_etched_cz75_light_large.png",
+			"name" : "Victoria",
+			"rarity" : 6
+		},
+		{
+			"id" : 297,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_so_orca_light_large.png",
+			"name" : "Tuxedo",
+			"rarity" : 3
+		},
+		{
+			"id" : 298,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_am_army_shine_light_large.png",
+			"name" : "Army Sheen",
+			"rarity" : 1
+		},
+		{
+			"id" : 315,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_am_nitrogen_light_large.png",
+			"name" : "Poison Dart",
+			"rarity" : 3
+		},
+		{
+			"id" : 322,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_so_orange_accents2_light_large.png",
+			"name" : "Nitro",
+			"rarity" : 3
+		},
+		{
+			"id" : 325,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_am_royal_light_large.png",
+			"name" : "Chalice",
+			"rarity" : 4
+		},
+		{
+			"id" : 333,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_so_indigo_and_grey_light_large.png",
+			"name" : "Indigo",
+			"rarity" : 1
+		},
+		{
+			"id" : 334,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_am_gyrate_light_large.png",
+			"name" : "Twist",
+			"rarity" : 3
+		},
+		{
+			"id" : 350,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_cu_c75a-tiger_light_large.png",
+			"name" : "Tigris",
+			"rarity" : 4
+		},
+		{
+			"id" : 366,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_hy_plaid2_light_large.png",
+			"name" : "Green Plaid",
+			"rarity" : 1
+		},
+		{
+			"id" : 435,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_cu_cz75_precision_light_large.png",
+			"name" : "Pole Position",
+			"rarity" : 4
+		},
+		{
+			"id" : 453,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_an_emerald_light_large.png",
+			"name" : "Emerald",
+			"rarity" : 3
+		},
+		{
+			"id" : 476,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_cu_cz75a_chastizer_light_large.png",
+			"name" : "Yellow Jacket",
+			"rarity" : 5
+		},
+		{
+			"id" : 543,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_gs_cz75a_redastor_light_large.png",
+			"name" : "Red Astor",
+			"rarity" : 4
+		},
+		{
+			"id" : 602,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_gs_cz75_tread_light_large.png",
+			"name" : "Imprint",
+			"rarity" : 3
+		},
+		{
+			"id" : 622,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_am_czv2_mf_light_large.png",
+			"name" : "Polymer",
+			"rarity" : 3
+		},
+		{
+			"id" : 643,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_gs_cz_snakes_purple_light_large.png",
+			"name" : "Xiangliu",
+			"rarity" : 5
+		},
+		{
+			"id" : 687,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_gs_cz75_tacticat_light_large.png",
+			"name" : "Tacticat",
+			"rarity" : 4
+		},
+		{
+			"id" : 709,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_cu_cz75_eco_light_large.png",
+			"name" : "Eco",
+			"rarity" : 4
+		},
+		{
+			"id" : 859,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_am_crystallized_green_light_large.png",
+			"name" : "Emerald Quartz",
+			"rarity" : 3
+		},
+		{
+			"id" : 933,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_sp_palm_night_light_large.png",
+			"name" : "Midnight Palm",
+			"rarity" : 2
+		},
+		{
+			"id" : 944,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_cu_cz75_cerakote_light_large.png",
+			"name" : "Distressed",
+			"rarity" : 3
+		},
+		{
+			"id" : 976,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_gs_cz75_vendetta_light_large.png",
+			"name" : "Vendetta",
+			"rarity" : 3
+		},
+		{
+			"id" : 1036,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_cu_cz75_whirlwind_light_large.png",
+			"name" : "Circaetus",
+			"rarity" : 3
+		},
+		{
+			"id" : 1064,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_gs_train_cz75_light_large.png",
+			"name" : "Syndicate",
+			"rarity" : 4
+		},
+		{
+			"id" : 1076,
+			"image_path" : "resource/flash/econ/default_generated/weapon_cz75a_hy_vertigoillusion_light_large.png",
+			"name" : "Framework",
+			"rarity" : 1
+		}
+	],
+	[
+		{
+			"id" : 17,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_hy_ddpat_urb_light_large.png",
+			"name" : "Urban DDPAT",
+			"rarity" : 1
+		},
+		{
+			"id" : 37,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_aa_flames_light_large.png",
+			"name" : "Blaze",
+			"rarity" : 3
+		},
+		{
+			"id" : 40,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_so_night_light_large.png",
+			"name" : "Night",
+			"rarity" : 1
+		},
+		{
+			"id" : 61,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_aa_vertigo_light_large.png",
+			"name" : "Hypnotic",
+			"rarity" : 4
+		},
+		{
+			"id" : 90,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_hy_mottled_sand_light_large.png",
+			"name" : "Mudder",
+			"rarity" : 1
+		},
+		{
+			"id" : 185,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_am_scales_bravo_light_large.png",
+			"name" : "Golden Koi",
+			"rarity" : 5
+		},
+		{
+			"id" : 231,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_am_ddpatdense_peacock_light_large.png",
+			"name" : "Cobalt Disruption",
+			"rarity" : 4
+		},
+		{
+			"id" : 232,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_hy_webs_darker_light_large.png",
+			"name" : "Crimson Web",
+			"rarity" : 3
+		},
+		{
+			"id" : 237,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_hy_varicamo_urban_light_large.png",
+			"name" : "Urban Rubble",
+			"rarity" : 2
+		},
+		{
+			"id" : 273,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_aq_engraved_deagle_light_large.png",
+			"name" : "Heirloom",
+			"rarity" : 3
+		},
+		{
+			"id" : 296,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_am_crystallized_dark_light_large.png",
+			"name" : "Meteorite",
+			"rarity" : 2
+		},
+		{
+			"id" : 328,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_aq_handcannon_light_large.png",
+			"name" : "Hand Cannon",
+			"rarity" : 3
+		},
+		{
+			"id" : 347,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_aq_pilot_deagle_light_large.png",
+			"name" : "Pilot",
+			"rarity" : 3
+		},
+		{
+			"id" : 351,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_cu_deagle_aureus_light_large.png",
+			"name" : "Conspiracy",
+			"rarity" : 4
+		},
+		{
+			"id" : 397,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_aq_deagle_naga_light_large.png",
+			"name" : "Naga",
+			"rarity" : 3
+		},
+		{
+			"id" : 425,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_am_bronze_sparkle_light_large.png",
+			"name" : "Bronze Deco",
+			"rarity" : 2
+		},
+		{
+			"id" : 468,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_am_seastorm_light_large.png",
+			"name" : "Midnight Storm",
+			"rarity" : 1
+		},
+		{
+			"id" : 469,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_am_seastorm_blood_light_large.png",
+			"name" : "Sunset Storm Ã¥Â£Â±",
+			"rarity" : 3
+		},
+		{
+			"id" : 470,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_am_seastorm_shojo_light_large.png",
+			"name" : "Sunset Storm Ã¥Â¼Â",
+			"rarity" : 3
+		},
+		{
+			"id" : 509,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_aq_deagle_corinthian_light_large.png",
+			"name" : "Corinthian",
+			"rarity" : 2
+		},
+		{
+			"id" : 527,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_aq_deserteagle_kumichodragon_light_large.png",
+			"name" : "Kumicho Dragon",
+			"rarity" : 4
+		},
+		{
+			"id" : 603,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_aq_desert_eagle_constable_light_large.png",
+			"name" : "Directive",
+			"rarity" : 3
+		},
+		{
+			"id" : 645,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_cu_desert_eagle_corroden_light_large.png",
+			"name" : "Oxide Blaze",
+			"rarity" : 2
+		},
+		{
+			"id" : 711,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_gs_deagle_aggressor_light_large.png",
+			"name" : "Code Red",
+			"rarity" : 5
+		},
+		{
+			"id" : 757,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_am_jorm_green_light_large.png",
+			"name" : "Emerald JÃƒÂ¶rmungandr",
+			"rarity" : 3
+		},
+		{
+			"id" : 805,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_gs_deagle_mecha_light_large.png",
+			"name" : "Mecha Industries",
+			"rarity" : 4
+		},
+		{
+			"id" : 841,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_gs_deagle_exo_light_large.png",
+			"name" : "Light Rail",
+			"rarity" : 3
+		},
+		{
+			"id" : 764,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_gs_deagle_fennec_light_large.png",
+			"name" : "Fennec Fox",
+			"rarity" : 4
+		},
+		{
+			"id" : 945,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_cu_deagle_replica_light_large.png",
+			"name" : "Blue Ply",
+			"rarity" : 2
+		},
+		{
+			"id" : 962,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_cu_deag_printstream_light_large.png",
+			"name" : "Printstream",
+			"rarity" : 5
+		},
+		{
+			"id" : 992,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_am_numbers_bronze_light_large.png",
+			"name" : "The Bronze",
+			"rarity" : 1
+		},
+		{
+			"id" : 1006,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_am_heist_plans_purple_light_large.png",
+			"name" : "Night Heist",
+			"rarity" : 2
+		},
+		{
+			"id" : 1050,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_cu_deag_trigger_discipline_light_large.png",
+			"name" : "Trigger Discipline",
+			"rarity" : 3
+		},
+		{
+			"id" : 1056,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_sp_spacerace_blue_light_large.png",
+			"name" : "Sputnik",
+			"rarity" : 2
+		},
+		{
+			"id" : 1090,
+			"image_path" : "resource/flash/econ/default_generated/weapon_deagle_cu_deagle_kitch_light_large.png",
+			"name" : "Ocean Drive",
+			"rarity" : 5
+		}
+	],
+	[
+		{
+			"id" : 28,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_an_navy_light_large.png",
+			"name" : "Anodized Navy",
+			"rarity" : 3
+		},
+		{
+			"id" : 43,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_aq_forced_light_large.png",
+			"name" : "Stained",
+			"rarity" : 2
+		},
+		{
+			"id" : 46,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_so_pmc_light_large.png",
+			"name" : "Contractor",
+			"rarity" : 1
+		},
+		{
+			"id" : 47,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_so_space_marine_light_large.png",
+			"name" : "Colony",
+			"rarity" : 1
+		},
+		{
+			"id" : 153,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_so_tangerine_light_large.png",
+			"name" : "Demolition",
+			"rarity" : 4
+		},
+		{
+			"id" : 190,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_cu_season_elites_bravo_light_large.png",
+			"name" : "Black Limba",
+			"rarity" : 3
+		},
+		{
+			"id" : 220,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_am_ossify_red_light_large.png",
+			"name" : "Hemoglobin",
+			"rarity" : 4
+		},
+		{
+			"id" : 249,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_am_crystallized_blue_light_large.png",
+			"name" : "Cobalt Quartz",
+			"rarity" : 4
+		},
+		{
+			"id" : 261,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_hy_marina_sunrise_light_large.png",
+			"name" : "Marina",
+			"rarity" : 4
+		},
+		{
+			"id" : 276,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_so_panther_light_large.png",
+			"name" : "Panther",
+			"rarity" : 3
+		},
+		{
+			"id" : 307,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_cu_retribution_light_large.png",
+			"name" : "Retribution",
+			"rarity" : 3
+		},
+		{
+			"id" : 330,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_hy_vines_light_large.png",
+			"name" : "Briar",
+			"rarity" : 1
+		},
+		{
+			"id" : 396,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_cu_elites_urbanstorm_light_large.png",
+			"name" : "Urban Shock",
+			"rarity" : 4
+		},
+		{
+			"id" : 447,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_gs_mother_of_pearl_elite_light_large.png",
+			"name" : "Duelist",
+			"rarity" : 4
+		},
+		{
+			"id" : 450,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_hy_zodiac1_light_large.png",
+			"name" : "Moon in Libra",
+			"rarity" : 1
+		},
+		{
+			"id" : 453,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_an_emerald_light_large.png",
+			"name" : "Emerald",
+			"rarity" : 3
+		},
+		{
+			"id" : 491,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_cu_dualberretta_dragons_light_large.png",
+			"name" : "Dualing Dragons",
+			"rarity" : 3
+		},
+		{
+			"id" : 528,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_aq_dualberettas_cartel_light_large.png",
+			"name" : "Cartel",
+			"rarity" : 3
+		},
+		{
+			"id" : 747,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_cu_dual_elites_rally_light_large.png",
+			"name" : "Twin Turbo",
+			"rarity" : 5
+		},
+		{
+			"id" : 544,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_gs_dualberettas_ventilators_light_large.png",
+			"name" : "Ventilators",
+			"rarity" : 3
+		},
+		{
+			"id" : 625,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_gs_dual_berettas_golden_venice_light_large.png",
+			"name" : "Royal Consorts",
+			"rarity" : 4
+		},
+		{
+			"id" : 658,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_gs_dualberettas_cobra_light_large.png",
+			"name" : "Cobra Strike",
+			"rarity" : 5
+		},
+		{
+			"id" : 710,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_sp_elites_winter_raider_light_large.png",
+			"name" : "Shred",
+			"rarity" : 3
+		},
+		{
+			"id" : 860,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_hy_gelpen_dark_light_large.png",
+			"name" : "Pyre",
+			"rarity" : 2
+		},
+		{
+			"id" : 895,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_gs_dual_elites_rose_light_large.png",
+			"name" : "Balance",
+			"rarity" : 3
+		},
+		{
+			"id" : 903,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_gs_dual_elites_classic_light_large.png",
+			"name" : "Elite 1.6",
+			"rarity" : 3
+		},
+		{
+			"id" : 824,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_sp_dry_wood_light_large.png",
+			"name" : "Drift Wood",
+			"rarity" : 2
+		},
+		{
+			"id" : 978,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_gs_dual_elites_dezastre_light_large.png",
+			"name" : "Dezastre",
+			"rarity" : 4
+		},
+		{
+			"id" : 998,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_hy_numbers_green_light_large.png",
+			"name" : "Switch Board",
+			"rarity" : 2
+		},
+		{
+			"id" : 1005,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_am_heist_plans_green_light_large.png",
+			"name" : "Heist",
+			"rarity" : 1
+		},
+		{
+			"id" : 1086,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_sp_engine_dirty_light_large.png",
+			"name" : "Oil Change",
+			"rarity" : 1
+		},
+		{
+			"id" : 1091,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_gs_dual_berettas_tread_light_large.png",
+			"name" : "Tread",
+			"rarity" : 3
+		},
+		{
+			"id" : 1126,
+			"image_path" : "resource/flash/econ/default_generated/weapon_elite_cu_elites_beware_light_large.png",
+			"name" : "Melondrama",
+			"rarity" : 5
+		}
+	],
+	[
+		{
+			"id" : 22,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_sp_spray_light_large.png",
+			"name" : "Contrast Spray",
+			"rarity" : 1
+		},
+		{
+			"id" : 47,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_so_space_marine_light_large.png",
+			"name" : "Colony",
+			"rarity" : 1
+		},
+		{
+			"id" : 60,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_am_zebra_dark_light_large.png",
+			"name" : "Dark Water",
+			"rarity" : 3
+		},
+		{
+			"id" : 92,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_hy_reef_light_large.png",
+			"name" : "Cyanospatter",
+			"rarity" : 2
+		},
+		{
+			"id" : 154,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_cu_broken_path_famas_light_large.png",
+			"name" : "Afterimage",
+			"rarity" : 5
+		},
+		{
+			"id" : 178,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_hy_doomkitty_light_large.png",
+			"name" : "Doomkitty",
+			"rarity" : 3
+		},
+		{
+			"id" : 194,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_sp_spitfire_famas_bravo_light_large.png",
+			"name" : "Spitfire",
+			"rarity" : 4
+		},
+		{
+			"id" : 218,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_hy_bluehex_light_large.png",
+			"name" : "Hexane",
+			"rarity" : 3
+		},
+		{
+			"id" : 240,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_hy_varicamo_desert_light_large.png",
+			"name" : "CaliCamo",
+			"rarity" : 2
+		},
+		{
+			"id" : 244,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_sp_mesh_hot_and_cold_light_large.png",
+			"name" : "Teardown",
+			"rarity" : 3
+		},
+		{
+			"id" : 260,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_cu_famas_pulse_light_large.png",
+			"name" : "Pulse",
+			"rarity" : 4
+		},
+		{
+			"id" : 288,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_an_famas_sgt_light_large.png",
+			"name" : "Sergeant",
+			"rarity" : 4
+		},
+		{
+			"id" : 371,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_am_nuclear_skulls2_famas_light_large.png",
+			"name" : "Styx",
+			"rarity" : 4
+		},
+		{
+			"id" : 429,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_aq_famas_jinn_light_large.png",
+			"name" : "Djinn",
+			"rarity" : 5
+		},
+		{
+			"id" : 477,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_am_famas_dots_light_large.png",
+			"name" : "Neural Net",
+			"rarity" : 4
+		},
+		{
+			"id" : 492,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_cu_famas_lenta_light_large.png",
+			"name" : "Survivor Z",
+			"rarity" : 3
+		},
+		{
+			"id" : 529,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_aq_famas_contour_light_large.png",
+			"name" : "Valence",
+			"rarity" : 4
+		},
+		{
+			"id" : 604,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_gs_famas_rally_light_large.png",
+			"name" : "Roll Cage",
+			"rarity" : 6
+		},
+		{
+			"id" : 626,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_gs_famas_mecha_light_large.png",
+			"name" : "Mecha Industries",
+			"rarity" : 5
+		},
+		{
+			"id" : 659,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_sp_famas_macabre_light_large.png",
+			"name" : "Macabre",
+			"rarity" : 3
+		},
+		{
+			"id" : 723,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_cu_famas_owl_orange_light_large.png",
+			"name" : "Eye of Athena",
+			"rarity" : 5
+		},
+		{
+			"id" : 869,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_sp_palm_sunset_light_large.png",
+			"name" : "Sundown",
+			"rarity" : 3
+		},
+		{
+			"id" : 863,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_sp_knots_blue_light_large.png",
+			"name" : "Night Borre",
+			"rarity" : 1
+		},
+		{
+			"id" : 835,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_sp_famas_ghost_insects_light_large.png",
+			"name" : "Crypsis",
+			"rarity" : 3
+		},
+		{
+			"id" : 904,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_cu_famas_nuke_tension_light_large.png",
+			"name" : "Decommissioned",
+			"rarity" : 3
+		},
+		{
+			"id" : 919,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_gs_famas_legacy_gold_light_large.png",
+			"name" : "Commemoration",
+			"rarity" : 6
+		},
+		{
+			"id" : 999,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_am_numbers_magenta_light_large.png",
+			"name" : "Prime Conspiracy",
+			"rarity" : 4
+		},
+		{
+			"id" : 1053,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_am_nuclear_pattern4_famas_light_large.png",
+			"name" : "Meltdown",
+			"rarity" : 5
+		},
+		{
+			"id" : 1066,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_aa_wiring_yellow_light_large.png",
+			"name" : "Faulty Wiring",
+			"rarity" : 1
+		},
+		{
+			"id" : 1092,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_cu_famas_spectron_light_large.png",
+			"name" : "ZX Spectron",
+			"rarity" : 4
+		},
+		{
+			"id" : 1127,
+			"image_path" : "resource/flash/econ/default_generated/weapon_famas_gs_famas_rapid_eyes_light_large.png",
+			"name" : "Rapid Eye Movement",
+			"rarity" : 5
+		}
+	],
+	[
+		{
+			"id" : 3,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_so_red_light_large.png",
+			"name" : "Candy Apple",
+			"rarity" : 2
+		},
+		{
+			"id" : 44,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_aq_oiled_light_large.png",
+			"name" : "Case Hardened",
+			"rarity" : 4
+		},
+		{
+			"id" : 46,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_so_pmc_light_large.png",
+			"name" : "Contractor",
+			"rarity" : 1
+		},
+		{
+			"id" : 78,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_hy_forest_night_light_large.png",
+			"name" : "Forest Night",
+			"rarity" : 1
+		},
+		{
+			"id" : 141,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_sp_tape_orange_light_large.png",
+			"name" : "Orange Peel",
+			"rarity" : 2
+		},
+		{
+			"id" : 151,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_so_jungle_light_large.png",
+			"name" : "Jungle",
+			"rarity" : 1
+		},
+		{
+			"id" : 210,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_an_gunmetal_bravo_light_large.png",
+			"name" : "Anodized Gunmetal",
+			"rarity" : 1
+		},
+		{
+			"id" : 223,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_hy_flowers_light_large.png",
+			"name" : "Nightshade",
+			"rarity" : 3
+		},
+		{
+			"id" : 252,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_am_crystallized_silver_light_large.png",
+			"name" : "Silver Quartz",
+			"rarity" : 3
+		},
+		{
+			"id" : 254,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_so_orange_accents_light_large.png",
+			"name" : "Nitro",
+			"rarity" : 3
+		},
+		{
+			"id" : 265,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_hy_kami_light_large.png",
+			"name" : "Kami",
+			"rarity" : 3
+		},
+		{
+			"id" : 274,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_am_copper_flecks_light_large.png",
+			"name" : "Copper Galaxy",
+			"rarity" : 4
+		},
+		{
+			"id" : 352,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_aq_57_feathers_light_large.png",
+			"name" : "Fowl Play",
+			"rarity" : 5
+		},
+		{
+			"id" : 377,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_so_grey_nuclear_orange_five_seven_light_large.png",
+			"name" : "Hot Shot",
+			"rarity" : 2
+		},
+		{
+			"id" : 387,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_cu_fiveseven_urban_hazard_light_large.png",
+			"name" : "Urban Hazard",
+			"rarity" : 3
+		},
+		{
+			"id" : 427,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_cu_fiveseven_banana_light_large.png",
+			"name" : "Monkey Business",
+			"rarity" : 5
+		},
+		{
+			"id" : 464,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_hy_kimono_diamonds_light_large.png",
+			"name" : "Neon Kimono",
+			"rarity" : 4
+		},
+		{
+			"id" : 510,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_cu_fiveseven_retrobution_light_large.png",
+			"name" : "Retrobution",
+			"rarity" : 4
+		},
+		{
+			"id" : 530,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_cu_fiveseven_augmented_light_large.png",
+			"name" : "Triumvirate",
+			"rarity" : 4
+		},
+		{
+			"id" : 784,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_hy_ducts_green_light_large.png",
+			"name" : "Coolant",
+			"rarity" : 1
+		},
+		{
+			"id" : 585,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_cu_five_seven_daimyo_light_large.png",
+			"name" : "Violent Daimyo",
+			"rarity" : 3
+		},
+		{
+			"id" : 605,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_aq_five_seven_scumbria_light_large.png",
+			"name" : "Scumbria",
+			"rarity" : 3
+		},
+		{
+			"id" : 646,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_cu_fiveseven_vein_light_large.png",
+			"name" : "Capillary",
+			"rarity" : 3
+		},
+		{
+			"id" : 660,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_cu_fiveseven_hyperbeast_light_large.png",
+			"name" : "Hyper Beast",
+			"rarity" : 6
+		},
+		{
+			"id" : 693,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_gs_fiveseven_hot_rod_violet_light_large.png",
+			"name" : "Flame Test",
+			"rarity" : 3
+		},
+		{
+			"id" : 729,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_hy_bud_red_light_large.png",
+			"name" : "Crimson Blossom",
+			"rarity" : 3
+		},
+		{
+			"id" : 837,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_cu_five_seven_angry_light_large.png",
+			"name" : "Angry Mob",
+			"rarity" : 6
+		},
+		{
+			"id" : 906,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_cu_fiveseven_gsg9_light_large.png",
+			"name" : "Buddy",
+			"rarity" : 4
+		},
+		{
+			"id" : 932,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_sp_moro_textile_purple_yellow_light_large.png",
+			"name" : "Withered Vine",
+			"rarity" : 2
+		},
+		{
+			"id" : 979,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_cu_five_seven_diary_light_large.png",
+			"name" : "Fairy Tale",
+			"rarity" : 5
+		},
+		{
+			"id" : 1002,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_aa_fade_red_blue_light_large.png",
+			"name" : "Berries And Cherries",
+			"rarity" : 4
+		},
+		{
+			"id" : 1082,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_cu_vertigo_fiveseven_light_large.png",
+			"name" : "Fall Hazard",
+			"rarity" : 5
+		},
+		{
+			"id" : 1093,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_gs_five_seven_efusion_light_large.png",
+			"name" : "Boost Protocol",
+			"rarity" : 4
+		},
+		{
+			"id" : 1128,
+			"image_path" : "resource/flash/econ/default_generated/weapon_fiveseven_cu_fiveseven_alpha_omega_light_large.png",
+			"name" : "Scrawl",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 6,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_hy_arctic_light_large.png",
+			"name" : "Arctic Camo",
+			"rarity" : 2
+		},
+		{
+			"id" : 8,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_hy_desert_light_large.png",
+			"name" : "Desert Storm",
+			"rarity" : 1
+		},
+		{
+			"id" : 46,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_so_pmc_light_large.png",
+			"name" : "Contractor",
+			"rarity" : 1
+		},
+		{
+			"id" : 72,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_sp_mesh_tan_light_large.png",
+			"name" : "Safari Mesh",
+			"rarity" : 1
+		},
+		{
+			"id" : 74,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_hy_arctic_contrast_light_large.png",
+			"name" : "Polar Camo",
+			"rarity" : 1
+		},
+		{
+			"id" : 147,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_sp_tape_short_jungle_light_large.png",
+			"name" : "Jungle Dashed",
+			"rarity" : 1
+		},
+		{
+			"id" : 195,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_hy_bluepolygon_bravo_light_large.png",
+			"name" : "Demeter",
+			"rarity" : 3
+		},
+		{
+			"id" : 229,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_sp_zebracam_blue_light_large.png",
+			"name" : "Azure Zebra",
+			"rarity" : 3
+		},
+		{
+			"id" : 235,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_hy_varicamo_light_large.png",
+			"name" : "VariCamo",
+			"rarity" : 2
+		},
+		{
+			"id" : 294,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_so_green_light_large.png",
+			"name" : "Green Apple",
+			"rarity" : 2
+		},
+		{
+			"id" : 382,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_am_g3sg1_murky_light_large.png",
+			"name" : "Murky",
+			"rarity" : 3
+		},
+		{
+			"id" : 438,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_cu_chronos_g3sg1_light_large.png",
+			"name" : "Chronos",
+			"rarity" : 4
+		},
+		{
+			"id" : 465,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_hy_kimono_diamonds_orange_light_large.png",
+			"name" : "Orange Kimono",
+			"rarity" : 1
+		},
+		{
+			"id" : 493,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_gs_g3sg1_flux_purple_light_large.png",
+			"name" : "Flux",
+			"rarity" : 5
+		},
+		{
+			"id" : 511,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_cu_g3sg1_executioner_light_large.png",
+			"name" : "The Executioner",
+			"rarity" : 5
+		},
+		{
+			"id" : 545,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_sp_g3sg1_militiaorange_light_large.png",
+			"name" : "Orange Crash",
+			"rarity" : 3
+		},
+		{
+			"id" : 606,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_gs_g3sg1_ventilator_light_large.png",
+			"name" : "Ventilator",
+			"rarity" : 3
+		},
+		{
+			"id" : 628,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_gs_g3sg1_viper_yellow_light_large.png",
+			"name" : "Stinger",
+			"rarity" : 4
+		},
+		{
+			"id" : 677,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_gs_g3sg1_cetme_redux_light_large.png",
+			"name" : "Hunter",
+			"rarity" : 3
+		},
+		{
+			"id" : 712,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_gs_g3sg1_buccaneer_light_large.png",
+			"name" : "High Seas",
+			"rarity" : 4
+		},
+		{
+			"id" : 739,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_am_murano_violet_light_large.png",
+			"name" : "Violet Murano",
+			"rarity" : 3
+		},
+		{
+			"id" : 806,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_gs_g3sg1_savage_light_large.png",
+			"name" : "Scavenger",
+			"rarity" : 4
+		},
+		{
+			"id" : 891,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_cu_g3sg1_blacksand_light_large.png",
+			"name" : "Black Sand",
+			"rarity" : 3
+		},
+		{
+			"id" : 930,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_sp_moro_carving_lightblue_light_large.png",
+			"name" : "New Roots",
+			"rarity" : 3
+		},
+		{
+			"id" : 980,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_gs_g3sg1_disrupt_light_large.png",
+			"name" : "Digital Mesh",
+			"rarity" : 3
+		},
+		{
+			"id" : 1034,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_am_ancient_wine_light_large.png",
+			"name" : "Ancient Ritual",
+			"rarity" : 2
+		},
+		{
+			"id" : 1095,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_cu_g3sg1_tacticalmap_light_large.png",
+			"name" : "Keeping Tabs",
+			"rarity" : 3
+		},
+		{
+			"id" : 1129,
+			"image_path" : "resource/flash/econ/default_generated/weapon_g3sg1_cu_g3sg1_glade_light_large.png",
+			"name" : "Dream Glade",
+			"rarity" : 4
+		}
+	],
+	[
+		{
+			"id" : 76,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_hy_forest_winter_light_large.png",
+			"name" : "Winter Forest",
+			"rarity" : 2
+		},
+		{
+			"id" : 83,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_hy_ddpat_orange_light_large.png",
+			"name" : "Orange DDPAT",
+			"rarity" : 4
+		},
+		{
+			"id" : 101,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_so_tornado_light_large.png",
+			"name" : "Tornado",
+			"rarity" : 1
+		},
+		{
+			"id" : 119,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_sp_spray_desert_sage_light_large.png",
+			"name" : "Sage Spray",
+			"rarity" : 1
+		},
+		{
+			"id" : 192,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_hy_crumple_bravo_light_large.png",
+			"name" : "Shattered",
+			"rarity" : 3
+		},
+		{
+			"id" : 216,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_an_titanium30v_light_large.png",
+			"name" : "Blue Titanium",
+			"rarity" : 3
+		},
+		{
+			"id" : 235,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_hy_varicamo_light_large.png",
+			"name" : "VariCamo",
+			"rarity" : 2
+		},
+		{
+			"id" : 237,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_hy_varicamo_urban_light_large.png",
+			"name" : "Urban Rubble",
+			"rarity" : 2
+		},
+		{
+			"id" : 241,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_sp_mesh_slashes_light_large.png",
+			"name" : "Hunting Blind",
+			"rarity" : 1
+		},
+		{
+			"id" : 246,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_aa_fade_metallic_light_large.png",
+			"name" : "Amber Fade",
+			"rarity" : 3
+		},
+		{
+			"id" : 264,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_cu_sandstorm_light_large.png",
+			"name" : "Sandstorm",
+			"rarity" : 3
+		},
+		{
+			"id" : 297,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_so_orca_light_large.png",
+			"name" : "Tuxedo",
+			"rarity" : 3
+		},
+		{
+			"id" : 308,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_hy_galil_kami_light_large.png",
+			"name" : "Kami",
+			"rarity" : 3
+		},
+		{
+			"id" : 379,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_cu_cerbrus_galil_light_large.png",
+			"name" : "Cerberus",
+			"rarity" : 4
+		},
+		{
+			"id" : 398,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_cu_galil_abrasion_light_large.png",
+			"name" : "Chatterbox",
+			"rarity" : 6
+		},
+		{
+			"id" : 428,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_cu_galil_eco_light_large.png",
+			"name" : "Eco",
+			"rarity" : 5
+		},
+		{
+			"id" : 460,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_am_geometric_steps_light_large.png",
+			"name" : "Aqua Terrace",
+			"rarity" : 3
+		},
+		{
+			"id" : 478,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_cu_galilar_particles_light_large.png",
+			"name" : "Rocket Pop",
+			"rarity" : 3
+		},
+		{
+			"id" : 494,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_gs_galil_nightwing_light_large.png",
+			"name" : "Stone Cold",
+			"rarity" : 4
+		},
+		{
+			"id" : 790,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_hy_nuclear_skulls_aqua_light_large.png",
+			"name" : "Cold Fusion",
+			"rarity" : 2
+		},
+		{
+			"id" : 546,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_gs_galilar_incenerator_light_large.png",
+			"name" : "Firefight",
+			"rarity" : 4
+		},
+		{
+			"id" : 629,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_cu_galil_ar-camo_light_large.png",
+			"name" : "Black Sand",
+			"rarity" : 3
+		},
+		{
+			"id" : 647,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_sp_galil_wave_light_large.png",
+			"name" : "Crimson Tsunami",
+			"rarity" : 4
+		},
+		{
+			"id" : 661,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_cu_galil_candychaos_light_large.png",
+			"name" : "Sugar Rush",
+			"rarity" : 5
+		},
+		{
+			"id" : 807,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_hy_galil_signal_red_light_large.png",
+			"name" : "Signal",
+			"rarity" : 4
+		},
+		{
+			"id" : 842,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_sp_galil_akoben_light_large.png",
+			"name" : "Akoben",
+			"rarity" : 3
+		},
+		{
+			"id" : 972,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_gs_galil_phoenix_light_large.png",
+			"name" : "Connexion",
+			"rarity" : 4
+		},
+		{
+			"id" : 981,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_gs_galil_vandal_light_large.png",
+			"name" : "Vandal",
+			"rarity" : 3
+		},
+		{
+			"id" : 1013,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_sp_phoenix_tags_purple_light_large.png",
+			"name" : "Phoenix Blacklight",
+			"rarity" : 4
+		},
+		{
+			"id" : 1032,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_hy_ruins_red_light_large.png",
+			"name" : "Dusk Ruins",
+			"rarity" : 3
+		},
+		{
+			"id" : 1038,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_cu_galil_chroma_pink_light_large.png",
+			"name" : "Chromatic Aberration",
+			"rarity" : 5
+		},
+		{
+			"id" : 1071,
+			"image_path" : "resource/flash/econ/default_generated/weapon_galilar_sp_galil_caution_light_large.png",
+			"name" : "CAUTION!",
+			"rarity" : 4
+		}
+	],
+	[
+		{
+			"id" : 2,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_so_olive_light_large.png",
+			"name" : "Groundwater",
+			"rarity" : 1
+		},
+		{
+			"id" : 3,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_so_red_light_large.png",
+			"name" : "Candy Apple",
+			"rarity" : 2
+		},
+		{
+			"id" : 38,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_aa_fade_light_large.png",
+			"name" : "Fade",
+			"rarity" : 3
+		},
+		{
+			"id" : 40,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_so_night_light_large.png",
+			"name" : "Night",
+			"rarity" : 1
+		},
+		{
+			"id" : 48,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_am_dragon_glock_light_large.png",
+			"name" : "Dragon Tattoo",
+			"rarity" : 3
+		},
+		{
+			"id" : 84,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_hy_ddpat_pink_light_large.png",
+			"name" : "Pink DDPAT",
+			"rarity" : 3
+		},
+		{
+			"id" : 159,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_aq_brass_light_large.png",
+			"name" : "Brass",
+			"rarity" : 3
+		},
+		{
+			"id" : 208,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_so_sand_bravo_light_large.png",
+			"name" : "Sand Dune",
+			"rarity" : 1
+		},
+		{
+			"id" : 230,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_am_ddpatdense_silver_light_large.png",
+			"name" : "Steel Disruption",
+			"rarity" : 3
+		},
+		{
+			"id" : 278,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_hy_craquelure_light_large.png",
+			"name" : "Blue Fissure",
+			"rarity" : 2
+		},
+		{
+			"id" : 293,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_hy_nerodia_light_large.png",
+			"name" : "Death Rattle",
+			"rarity" : 1
+		},
+		{
+			"id" : 353,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_cu_glock-liquescent_light_large.png",
+			"name" : "Water Elemental",
+			"rarity" : 4
+		},
+		{
+			"id" : 367,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_am_nuclear_pattern1_glock_light_large.png",
+			"name" : "Reactor",
+			"rarity" : 2
+		},
+		{
+			"id" : 381,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_aq_glock_coiled_light_large.png",
+			"name" : "Grinder",
+			"rarity" : 3
+		},
+		{
+			"id" : 399,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_cu_glock_deathtoll_light_large.png",
+			"name" : "Catacombs",
+			"rarity" : 2
+		},
+		{
+			"id" : 437,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_am_aqua_flecks_light_large.png",
+			"name" : "Twilight Galaxy",
+			"rarity" : 4
+		},
+		{
+			"id" : 479,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_aq_glock18_flames_blue_light_large.png",
+			"name" : "Bunsen Burner",
+			"rarity" : 2
+		},
+		{
+			"id" : 495,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_gs_glock18_wrathys_light_large.png",
+			"name" : "Wraiths",
+			"rarity" : 2
+		},
+		{
+			"id" : 532,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_gs_glock18_award_light_large.png",
+			"name" : "Royal Legion",
+			"rarity" : 3
+		},
+		{
+			"id" : 789,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_am_nuclear_skulls_green_light_large.png",
+			"name" : "Nuclear Garden",
+			"rarity" : 3
+		},
+		{
+			"id" : 799,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_aa_vertigo_blue_light_large.png",
+			"name" : "High Beam",
+			"rarity" : 1
+		},
+		{
+			"id" : 586,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_cu_glock_wasteland_rebel_light_large.png",
+			"name" : "Wasteland Rebel",
+			"rarity" : 5
+		},
+		{
+			"id" : 607,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_cu_glock18_weasel_light_large.png",
+			"name" : "Weasel",
+			"rarity" : 3
+		},
+		{
+			"id" : 623,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_aq_glock_dark-fall_light_large.png",
+			"name" : "Ironwork",
+			"rarity" : 2
+		},
+		{
+			"id" : 680,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_cu_glock_indigo_light_large.png",
+			"name" : "Off World",
+			"rarity" : 2
+		},
+		{
+			"id" : 694,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_aa_glock_18_urban_moon_fever_light_large.png",
+			"name" : "Moonrise",
+			"rarity" : 3
+		},
+		{
+			"id" : 713,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_gs_glock_thunder_dust_light_large.png",
+			"name" : "Warhawk",
+			"rarity" : 2
+		},
+		{
+			"id" : 732,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_hy_leaf_blue_light_large.png",
+			"name" : "Synth Leaf",
+			"rarity" : 3
+		},
+		{
+			"id" : 808,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_cu_glock18_corroden_light_large.png",
+			"name" : "Oxide Blaze",
+			"rarity" : 2
+		},
+		{
+			"id" : 918,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_cu_glock_hero_light_large.png",
+			"name" : "Sacrifice",
+			"rarity" : 2
+		},
+		{
+			"id" : 957,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_cu_glock18_warmaiden_light_large.png",
+			"name" : "Bullet Queen",
+			"rarity" : 5
+		},
+		{
+			"id" : 963,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_cu_glock_eyecontact_light_large.png",
+			"name" : "Vogue",
+			"rarity" : 4
+		},
+		{
+			"id" : 988,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_cu_glock_noir_light_large.png",
+			"name" : "Neo-Noir",
+			"rarity" : 5
+		},
+		{
+			"id" : 1016,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_cu_money_glock_light_large.png",
+			"name" : "Franklin",
+			"rarity" : 3
+		},
+		{
+			"id" : 1039,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_gs_glock_polymer_light_large.png",
+			"name" : "Clear Polymer",
+			"rarity" : 2
+		},
+		{
+			"id" : 1119,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_am_emerald_marbleized_glock_light_large.png",
+			"name" : "Gamma Doppler",
+			"rarity" : 5
+		},
+		{
+			"id" : 1120,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_am_gamma_doppler_phase1_glock_light_large.png",
+			"name" : "Gamma Doppler",
+			"rarity" : 5
+		},
+		{
+			"id" : 1121,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_am_gamma_doppler_phase2_glock_light_large.png",
+			"name" : "Gamma Doppler",
+			"rarity" : 5
+		},
+		{
+			"id" : 1122,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_am_gamma_doppler_phase3_glock_light_large.png",
+			"name" : "Gamma Doppler",
+			"rarity" : 5
+		},
+		{
+			"id" : 1123,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_am_gamma_doppler_phase4_glock_light_large.png",
+			"name" : "Gamma Doppler",
+			"rarity" : 5
+		},
+		{
+			"id" : 1079,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_sp_tire_tread_red_light_large.png",
+			"name" : "Red Tire",
+			"rarity" : 1
+		},
+		{
+			"id" : 1100,
+			"image_path" : "resource/flash/econ/default_generated/weapon_glock_cu_glock_snackattack_light_large.png",
+			"name" : "Snack Attack",
+			"rarity" : 4
+		}
+	],
+	[
+		{
+			"id" : 22,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_sp_spray_light_large.png",
+			"name" : "Contrast Spray",
+			"rarity" : 1
+		},
+		{
+			"id" : 75,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_hy_blizzard_light_large.png",
+			"name" : "Blizzard Marbleized",
+			"rarity" : 2
+		},
+		{
+			"id" : 151,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_so_jungle_light_large.png",
+			"name" : "Jungle",
+			"rarity" : 1
+		},
+		{
+			"id" : 170,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_sp_zebracam_light_large.png",
+			"name" : "Predator",
+			"rarity" : 1
+		},
+		{
+			"id" : 202,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_hy_ddpat_jungle_bravo_light_large.png",
+			"name" : "Jungle DDPAT",
+			"rarity" : 1
+		},
+		{
+			"id" : 243,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_sp_mesh_python_light_large.png",
+			"name" : "Gator Mesh",
+			"rarity" : 2
+		},
+		{
+			"id" : 266,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_aq_obsidian_light_large.png",
+			"name" : "Magma",
+			"rarity" : 3
+		},
+		{
+			"id" : 401,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_cu_m249_sektor_light_large.png",
+			"name" : "System Lock",
+			"rarity" : 3
+		},
+		{
+			"id" : 452,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_hy_zodiac3_light_large.png",
+			"name" : "Shipping Forecast",
+			"rarity" : 2
+		},
+		{
+			"id" : 472,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_so_keycolors_light_large.png",
+			"name" : "Impact Drill",
+			"rarity" : 1
+		},
+		{
+			"id" : 496,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_gs_m249_nebula_crusader_light_large.png",
+			"name" : "Nebula Crusader",
+			"rarity" : 4
+		},
+		{
+			"id" : 547,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_cu_m249_spectre_light_large.png",
+			"name" : "Spectre",
+			"rarity" : 3
+		},
+		{
+			"id" : 648,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_sp_m249_frog_original_light_large.png",
+			"name" : "Emerald Poison Dart",
+			"rarity" : 4
+		},
+		{
+			"id" : 900,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_gs_m249_warbird_veteran_light_large.png",
+			"name" : "Warbird",
+			"rarity" : 3
+		},
+		{
+			"id" : 902,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_aq_m249_aztec_light_large.png",
+			"name" : "Aztec",
+			"rarity" : 4
+		},
+		{
+			"id" : 933,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_sp_palm_night_light_large.png",
+			"name" : "Midnight Palm",
+			"rarity" : 2
+		},
+		{
+			"id" : 827,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_sp_moro_carving_burnt_light_large.png",
+			"name" : "Humidor",
+			"rarity" : 3
+		},
+		{
+			"id" : 983,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_cu_m249_deep_relief_light_large.png",
+			"name" : "Deep Relief",
+			"rarity" : 3
+		},
+		{
+			"id" : 1042,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m249_gs_m249_combine_light_large.png",
+			"name" : "O.S.I.P.R.",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 60,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_am_zebra_dark_light_large.png",
+			"name" : "Dark Water",
+			"rarity" : 3
+		},
+		{
+			"id" : 77,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_hy_forest_boreal_light_large.png",
+			"name" : "Boreal Forest",
+			"rarity" : 1
+		},
+		{
+			"id" : 189,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_hy_ocean_bravo_light_large.png",
+			"name" : "Bright Water",
+			"rarity" : 3
+		},
+		{
+			"id" : 217,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_hy_redtiger_light_large.png",
+			"name" : "Blood Tiger",
+			"rarity" : 2
+		},
+		{
+			"id" : 235,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_hy_varicamo_light_large.png",
+			"name" : "VariCamo",
+			"rarity" : 2
+		},
+		{
+			"id" : 254,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_so_orange_accents_light_large.png",
+			"name" : "Nitro",
+			"rarity" : 3
+		},
+		{
+			"id" : 257,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_cu_m4a1-s_elegant_light_large.png",
+			"name" : "Guardian",
+			"rarity" : 4
+		},
+		{
+			"id" : 301,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_am_m4a1-s_alloy_orange_light_large.png",
+			"name" : "Atomic Alloy",
+			"rarity" : 4
+		},
+		{
+			"id" : 321,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_cu_m4a1-s_silence_light_large.png",
+			"name" : "Master Piece",
+			"rarity" : 4
+		},
+		{
+			"id" : 326,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_am_metals_light_large.png",
+			"name" : "Knight",
+			"rarity" : 4
+		},
+		{
+			"id" : 360,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_cyrex_light_large.png",
+			"name" : "Cyrex",
+			"rarity" : 5
+		},
+		{
+			"id" : 383,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_aq_m4a1s_basilisk_light_large.png",
+			"name" : "Basilisk",
+			"rarity" : 3
+		},
+		{
+			"id" : 430,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_cu_m4a1_hyper_beast_light_large.png",
+			"name" : "Hyper Beast",
+			"rarity" : 5
+		},
+		{
+			"id" : 440,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_hy_icarus_light_large.png",
+			"name" : "Icarus Fell",
+			"rarity" : 3
+		},
+		{
+			"id" : 445,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_an_red_m4a1s_light_large.png",
+			"name" : "Hot Rod",
+			"rarity" : 4
+		},
+		{
+			"id" : 497,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_snakebite_gold_light_large.png",
+			"name" : "Golden Coil",
+			"rarity" : 5
+		},
+		{
+			"id" : 792,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_operator_light_large.png",
+			"name" : "Control Panel",
+			"rarity" : 4
+		},
+		{
+			"id" : 548,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_soultaker_light_large.png",
+			"name" : "Chantico's Fire",
+			"rarity" : 5
+		},
+		{
+			"id" : 587,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_gs_m4a1_mecha_industries_light_large.png",
+			"name" : "Mecha Industries",
+			"rarity" : 5
+		},
+		{
+			"id" : 631,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_cu_m4a1_flashback_light_large.png",
+			"name" : "Flashback",
+			"rarity" : 3
+		},
+		{
+			"id" : 644,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_gs_m4a1_decimator_light_large.png",
+			"name" : "Decimator",
+			"rarity" : 4
+		},
+		{
+			"id" : 663,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_metritera_light_large.png",
+			"name" : "Briefing",
+			"rarity" : 2
+		},
+		{
+			"id" : 681,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_gs_m4a1_shatter_light_large.png",
+			"name" : "Leaded Glass",
+			"rarity" : 4
+		},
+		{
+			"id" : 714,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_nightmare_light_large.png",
+			"name" : "Nightmare",
+			"rarity" : 4
+		},
+		{
+			"id" : 862,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_am_crystallized_dark_green_light_large.png",
+			"name" : "Moss Quartz",
+			"rarity" : 1
+		},
+		{
+			"id" : 946,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_csgo2048_light_large.png",
+			"name" : "Player Two",
+			"rarity" : 5
+		},
+		{
+			"id" : 984,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_printstream_light_large.png",
+			"name" : "Printstream",
+			"rarity" : 5
+		},
+		{
+			"id" : 1017,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_am_m4a1s_bluesmoke_light_large.png",
+			"name" : "Blue Phosphor",
+			"rarity" : 4
+		},
+		{
+			"id" : 1001,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_cu_m4a1_snake_light_large.png",
+			"name" : "Welcome to the Jungle",
+			"rarity" : 5
+		},
+		{
+			"id" : 1059,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_sp_technowar_red_light_large.png",
+			"name" : "Fizzy POP",
+			"rarity" : 2
+		},
+		{
+			"id" : 1073,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_gs_m4a1_vertigo_light_large.png",
+			"name" : "Imminent Danger",
+			"rarity" : 5
+		},
+		{
+			"id" : 1130,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_insomnia_light_large.png",
+			"name" : "Night Terror",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 8,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_hy_desert_light_large.png",
+			"name" : "Desert Storm",
+			"rarity" : 1
+		},
+		{
+			"id" : 16,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_hy_v_tiger_light_large.png",
+			"name" : "Jungle Tiger",
+			"rarity" : 1
+		},
+		{
+			"id" : 17,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_hy_ddpat_urb_light_large.png",
+			"name" : "Urban DDPAT",
+			"rarity" : 1
+		},
+		{
+			"id" : 101,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_so_tornado_light_large.png",
+			"name" : "Tornado",
+			"rarity" : 1
+		},
+		{
+			"id" : 155,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_bullet_rain_m4a1_light_large.png",
+			"name" : "Bullet Rain",
+			"rarity" : 6
+		},
+		{
+			"id" : 164,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_hy_hunter_modern_light_large.png",
+			"name" : "Modern Hunter",
+			"rarity" : 3
+		},
+		{
+			"id" : 167,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_sp_nukestripe_orange_light_large.png",
+			"name" : "Radiation Hazard",
+			"rarity" : 2
+		},
+		{
+			"id" : 176,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_sp_zebracam_bw_light_large.png",
+			"name" : "Faded Zebra",
+			"rarity" : 2
+		},
+		{
+			"id" : 187,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_sp_star_bravo_light_large.png",
+			"name" : "Zirka",
+			"rarity" : 3
+		},
+		{
+			"id" : 215,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_xray_m4_light_large.png",
+			"name" : "X-Ray",
+			"rarity" : 6
+		},
+		{
+			"id" : 255,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_m4_asimov_light_large.png",
+			"name" : "Asiimov",
+			"rarity" : 5
+		},
+		{
+			"id" : 309,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_m4a1_howling_light_large.png",
+			"name" : "Howl",
+			"rarity" : 7
+		},
+		{
+			"id" : 336,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_titanstorm_light_large.png",
+			"name" : "Desert-Strike",
+			"rarity" : 5
+		},
+		{
+			"id" : 384,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_m4a4_griffin_light_large.png",
+			"name" : "Griffin",
+			"rarity" : 3
+		},
+		{
+			"id" : 400,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_m4a4_ancestral_light_large.png",
+			"name" : "Ã©Â¾ÂÃ§Å½â€¹ (Dragon King)",
+			"rarity" : 4
+		},
+		{
+			"id" : 449,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_poseidon_light_large.png",
+			"name" : "Poseidon",
+			"rarity" : 4
+		},
+		{
+			"id" : 471,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_am_kimono_sunrise_light_large.png",
+			"name" : "Daybreak",
+			"rarity" : 3
+		},
+		{
+			"id" : 480,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_m4a4_evil_daimyo_light_large.png",
+			"name" : "Evil Daimyo",
+			"rarity" : 3
+		},
+		{
+			"id" : 512,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_gs_m4a4_royal_squire_light_large.png",
+			"name" : "Royal Paladin",
+			"rarity" : 5
+		},
+		{
+			"id" : 533,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_gs_m4a4_pioneer_light_large.png",
+			"name" : "The Battlestar",
+			"rarity" : 5
+		},
+		{
+			"id" : 780,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_am_circuitboard_silver_light_large.png",
+			"name" : "Mainframe",
+			"rarity" : 1
+		},
+		{
+			"id" : 793,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_hy_red_hex_light_large.png",
+			"name" : "Converter",
+			"rarity" : 2
+		},
+		{
+			"id" : 588,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_m4a4_desolate_space_light_large.png",
+			"name" : "Desolate Space",
+			"rarity" : 4
+		},
+		{
+			"id" : 632,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_gs_m4a4_sector_light_large.png",
+			"name" : "Buzz Kill",
+			"rarity" : 5
+		},
+		{
+			"id" : 664,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_m4a4_hellfire_light_large.png",
+			"name" : "Hellfire",
+			"rarity" : 4
+		},
+		{
+			"id" : 695,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_m4a4_neo_noir_light_large.png",
+			"name" : "Neo-Noir",
+			"rarity" : 5
+		},
+		{
+			"id" : 730,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_sp_bud_blue_light_large.png",
+			"name" : "Dark Blossom",
+			"rarity" : 1
+		},
+		{
+			"id" : 811,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_gs_m4a4_chopper_ghost_light_large.png",
+			"name" : "Magnesium",
+			"rarity" : 2
+		},
+		{
+			"id" : 844,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_gs_m4a4_emperor_light_large.png",
+			"name" : "The Emperor",
+			"rarity" : 5
+		},
+		{
+			"id" : 926,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_hy_ddpat_urban_red_light_large.png",
+			"name" : "Red DDPAT",
+			"rarity" : 3
+		},
+		{
+			"id" : 971,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_m4a4_queenfairy_light_large.png",
+			"name" : "Tooth Fairy",
+			"rarity" : 4
+		},
+		{
+			"id" : 985,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_m4a4_cyberpunk_light_large.png",
+			"name" : "Cyber Security",
+			"rarity" : 4
+		},
+		{
+			"id" : 993,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_csgo_camo_light_large.png",
+			"name" : "Global Offensive",
+			"rarity" : 2
+		},
+		{
+			"id" : 1041,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_cu_m4a4_love_light_large.png",
+			"name" : "In Living Color",
+			"rarity" : 5
+		},
+		{
+			"id" : 1063,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_gs_m4a4_coalition_light_large.png",
+			"name" : "The Coalition",
+			"rarity" : 5
+		},
+		{
+			"id" : 1097,
+			"image_path" : "resource/flash/econ/default_generated/weapon_m4a1_gs_m4_flowers_light_large.png",
+			"name" : "Spider Lily",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 3,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_so_red_light_large.png",
+			"name" : "Candy Apple",
+			"rarity" : 2
+		},
+		{
+			"id" : 17,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_hy_ddpat_urb_light_large.png",
+			"name" : "Urban DDPAT",
+			"rarity" : 1
+		},
+		{
+			"id" : 32,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_an_silver_light_large.png",
+			"name" : "Silver",
+			"rarity" : 2
+		},
+		{
+			"id" : 38,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_aa_fade_light_large.png",
+			"name" : "Fade",
+			"rarity" : 3
+		},
+		{
+			"id" : 44,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_aq_oiled_light_large.png",
+			"name" : "Case Hardened",
+			"rarity" : 4
+		},
+		{
+			"id" : 98,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_so_purple_light_large.png",
+			"name" : "Ultraviolet",
+			"rarity" : 3
+		},
+		{
+			"id" : 101,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_so_tornado_light_large.png",
+			"name" : "Tornado",
+			"rarity" : 1
+		},
+		{
+			"id" : 157,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_sp_palm_light_large.png",
+			"name" : "Palm",
+			"rarity" : 2
+		},
+		{
+			"id" : 188,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_light_large.png",
+			"name" : "Graven",
+			"rarity" : 4
+		},
+		{
+			"id" : 246,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_aa_fade_metallic_light_large.png",
+			"name" : "Amber Fade",
+			"rarity" : 3
+		},
+		{
+			"id" : 284,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_cu_mac10_redhot_light_large.png",
+			"name" : "Heat",
+			"rarity" : 4
+		},
+		{
+			"id" : 310,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_cu_mac10_decay_light_large.png",
+			"name" : "Curse",
+			"rarity" : 4
+		},
+		{
+			"id" : 333,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_so_indigo_and_grey_light_large.png",
+			"name" : "Indigo",
+			"rarity" : 1
+		},
+		{
+			"id" : 337,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_cu_korupt_light_large.png",
+			"name" : "Tatter",
+			"rarity" : 4
+		},
+		{
+			"id" : 343,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_cu_luggage_mac10_light_large.png",
+			"name" : "Commuter",
+			"rarity" : 2
+		},
+		{
+			"id" : 372,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_am_nuclear_skulls3_mac10_light_large.png",
+			"name" : "Nuclear Garden",
+			"rarity" : 3
+		},
+		{
+			"id" : 402,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_am_mac10_malachite_light_large.png",
+			"name" : "Malachite",
+			"rarity" : 4
+		},
+		{
+			"id" : 433,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_cu_mac10_neonrider_light_large.png",
+			"name" : "Neon Rider",
+			"rarity" : 6
+		},
+		{
+			"id" : 498,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_cu_mac10_alekhya_duo_light_large.png",
+			"name" : "Rangeen",
+			"rarity" : 3
+		},
+		{
+			"id" : 534,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_am_mac10_electricity_light_large.png",
+			"name" : "Lapis Gator",
+			"rarity" : 3
+		},
+		{
+			"id" : 748,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_gs_mac10_checker_light_large.png",
+			"name" : "Calf Skin",
+			"rarity" : 2
+		},
+		{
+			"id" : 589,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_light_large.png",
+			"name" : "Carnivore",
+			"rarity" : 3
+		},
+		{
+			"id" : 651,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_aa_mac10_the_last_dive_light_large.png",
+			"name" : "Last Dive",
+			"rarity" : 4
+		},
+		{
+			"id" : 665,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_am_mac10_aloha_light_large.png",
+			"name" : "Aloha",
+			"rarity" : 3
+		},
+		{
+			"id" : 682,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_am_mac10_oceani_light_large.png",
+			"name" : "Oceanic",
+			"rarity" : 3
+		},
+		{
+			"id" : 871,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_sp_twigs_beach_light_large.png",
+			"name" : "Surfwood",
+			"rarity" : 1
+		},
+		{
+			"id" : 742,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_am_ren_red_light_large.png",
+			"name" : "Red Filigree",
+			"rarity" : 4
+		},
+		{
+			"id" : 761,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_am_knots_brown_light_large.png",
+			"name" : "Copper Borre",
+			"rarity" : 3
+		},
+		{
+			"id" : 812,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_gs_mac10_exo_pipes_light_large.png",
+			"name" : "Pipe Down",
+			"rarity" : 4
+		},
+		{
+			"id" : 840,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_gs_mac10_fish_bait_light_large.png",
+			"name" : "Whitefish",
+			"rarity" : 3
+		},
+		{
+			"id" : 898,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_gs_mac10_stalker_light_large.png",
+			"name" : "Stalker",
+			"rarity" : 6
+		},
+		{
+			"id" : 908,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_gs_mac10_dust_crate_light_large.png",
+			"name" : "Classic Crate",
+			"rarity" : 3
+		},
+		{
+			"id" : 826,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_sp_mirage_flowers_tan_light_large.png",
+			"name" : "Sienna Damask",
+			"rarity" : 1
+		},
+		{
+			"id" : 947,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_cu_mac10_nacre_light_large.png",
+			"name" : "Disco Tech",
+			"rarity" : 5
+		},
+		{
+			"id" : 965,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_cu_mac10_isoonna_light_large.png",
+			"name" : "Allure",
+			"rarity" : 4
+		},
+		{
+			"id" : 1009,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_gs_mac10_snake_light_large.png",
+			"name" : "Hot Snakes",
+			"rarity" : 5
+		},
+		{
+			"id" : 1025,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_am_gold_brick_light_large.png",
+			"name" : "Gold Brick",
+			"rarity" : 4
+		},
+		{
+			"id" : 1045,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_cu_mac10_portable_light_large.png",
+			"name" : "Button Masher",
+			"rarity" : 4
+		},
+		{
+			"id" : 1067,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_cu_mac10_propaganda_light_large.png",
+			"name" : "Propaganda",
+			"rarity" : 5
+		},
+		{
+			"id" : 1075,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_hy_vertigospray_blue_light_large.png",
+			"name" : "Strats",
+			"rarity" : 1
+		},
+		{
+			"id" : 1098,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_cu_mac10_toybox_light_large.png",
+			"name" : "Toybox",
+			"rarity" : 5
+		},
+		{
+			"id" : 1131,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mac10_cu_mac10_pixie_light_large.png",
+			"name" : "Ensnared",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 32,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_an_silver_light_large.png",
+			"name" : "Silver",
+			"rarity" : 2
+		},
+		{
+			"id" : 34,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_am_urban_light_large.png",
+			"name" : "Metallic DDPAT",
+			"rarity" : 2
+		},
+		{
+			"id" : 39,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_so_yellow_light_large.png",
+			"name" : "Bulldozer",
+			"rarity" : 4
+		},
+		{
+			"id" : 70,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_am_carbon_fiber_light_large.png",
+			"name" : "Carbon Fiber",
+			"rarity" : 2
+		},
+		{
+			"id" : 99,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_so_sand_light_large.png",
+			"name" : "Sand Dune",
+			"rarity" : 1
+		},
+		{
+			"id" : 100,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_so_stormfront_light_large.png",
+			"name" : "Storm",
+			"rarity" : 1
+		},
+		{
+			"id" : 171,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_sp_nukestripe_brown_light_large.png",
+			"name" : "Irradiated Alert",
+			"rarity" : 1
+		},
+		{
+			"id" : 177,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_hy_icosahedron_light_large.png",
+			"name" : "Memento",
+			"rarity" : 3
+		},
+		{
+			"id" : 198,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_sp_hazard_bravo_light_large.png",
+			"name" : "Hazard",
+			"rarity" : 3
+		},
+		{
+			"id" : 291,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_cu_mag7_heaven_light_large.png",
+			"name" : "Heaven Guard",
+			"rarity" : 3
+		},
+		{
+			"id" : 327,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_am_chainmail_light_large.png",
+			"name" : "Chainmail",
+			"rarity" : 2
+		},
+		{
+			"id" : 385,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_sp_mag7_firebitten_light_large.png",
+			"name" : "Firestarter",
+			"rarity" : 3
+		},
+		{
+			"id" : 431,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_cu_mag7_redhot_light_large.png",
+			"name" : "Heat",
+			"rarity" : 4
+		},
+		{
+			"id" : 462,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_hy_geometric_steps_green_light_large.png",
+			"name" : "Counter Terrace",
+			"rarity" : 3
+		},
+		{
+			"id" : 473,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_so_aqua_light_large.png",
+			"name" : "Seabird",
+			"rarity" : 1
+		},
+		{
+			"id" : 499,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_cu_mag7_myrcene_light_large.png",
+			"name" : "Cobalt Core",
+			"rarity" : 3
+		},
+		{
+			"id" : 535,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_gs_mag7_praetorian_light_large.png",
+			"name" : "Praetorian",
+			"rarity" : 4
+		},
+		{
+			"id" : 787,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_hy_nuclear_hotorange_light_large.png",
+			"name" : "Core Breach",
+			"rarity" : 4
+		},
+		{
+			"id" : 754,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_aq_steel_inferno_light_large.png",
+			"name" : "Rust Coat",
+			"rarity" : 1
+		},
+		{
+			"id" : 608,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_cu_mag7_tribal_light_large.png",
+			"name" : "Petroglyph",
+			"rarity" : 4
+		},
+		{
+			"id" : 633,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_am_mag7_malform_light_large.png",
+			"name" : "Sonar",
+			"rarity" : 3
+		},
+		{
+			"id" : 666,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_am_mag7_caustic_light_large.png",
+			"name" : "Hard Water",
+			"rarity" : 3
+		},
+		{
+			"id" : 703,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_aq_mag7_swag7_light_large.png",
+			"name" : "SWAG-7",
+			"rarity" : 4
+		},
+		{
+			"id" : 737,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_gs_mag7_glass_light_large.png",
+			"name" : "Cinquedea",
+			"rarity" : 5
+		},
+		{
+			"id" : 909,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_gs_mag7_popdog_light_large.png",
+			"name" : "Popdog",
+			"rarity" : 3
+		},
+		{
+			"id" : 822,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_am_navy_shine_light_large.png",
+			"name" : "Navy Sheen",
+			"rarity" : 1
+		},
+		{
+			"id" : 948,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_gs_mag7_justice_light_large.png",
+			"name" : "Justice",
+			"rarity" : 5
+		},
+		{
+			"id" : 961,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_cu_mag7_monster_call_light_large.png",
+			"name" : "Monster Call",
+			"rarity" : 4
+		},
+		{
+			"id" : 1072,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_hy_geometric_steps_pearl_light_large.png",
+			"name" : "Prism Terrace",
+			"rarity" : 4
+		},
+		{
+			"id" : 1089,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_gs_mag7_bismuth_light_large.png",
+			"name" : "BI83 Spectrum",
+			"rarity" : 4
+		},
+		{
+			"id" : 1132,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mag7_cu_mag7_predictor_light_large.png",
+			"name" : "Foresight",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 781,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_am_circuitboard_aqua_light_large.png",
+			"name" : "Co-Processor",
+			"rarity" : 3
+		},
+		{
+			"id" : 753,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_sp_tape_short_rally_light_large.png",
+			"name" : "Dirt Drop",
+			"rarity" : 1
+		},
+		{
+			"id" : 798,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_so_orange_accents3_light_large.png",
+			"name" : "Nitro",
+			"rarity" : 2
+		},
+		{
+			"id" : 800,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_hy_labrat_mp5_light_large.png",
+			"name" : "Lab Rats",
+			"rarity" : 4
+		},
+		{
+			"id" : 872,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_hy_bamboo_stmarc_light_large.png",
+			"name" : "Bamboo Garden",
+			"rarity" : 1
+		},
+		{
+			"id" : 810,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_gs_mp5_festival_drip_light_large.png",
+			"name" : "Phosphor",
+			"rarity" : 5
+		},
+		{
+			"id" : 846,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_gs_mp5sd_astromatic_light_large.png",
+			"name" : "Gauss",
+			"rarity" : 4
+		},
+		{
+			"id" : 888,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_gs_mp5_etch_light_large.png",
+			"name" : "Acid Wash",
+			"rarity" : 3
+		},
+		{
+			"id" : 915,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_gs_mp5_fbi_light_large.png",
+			"name" : "Agent",
+			"rarity" : 4
+		},
+		{
+			"id" : 923,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_gs_mp5_neon_flektarn_light_large.png",
+			"name" : "Oxide Oasis",
+			"rarity" : 5
+		},
+		{
+			"id" : 949,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_cu_mp5_desert_strike_light_large.png",
+			"name" : "Desert Strike",
+			"rarity" : 3
+		},
+		{
+			"id" : 974,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_gs_mp5sd_wasteland_legacy_light_large.png",
+			"name" : "Kitbash",
+			"rarity" : 4
+		},
+		{
+			"id" : 986,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_gs_mp5_conditionzero_light_large.png",
+			"name" : "Condition Zero",
+			"rarity" : 3
+		},
+		{
+			"id" : 1061,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_hy_trainarchitect_light_large.png",
+			"name" : "Autumn Twilly",
+			"rarity" : 4
+		},
+		{
+			"id" : 1137,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp5sd_gs_mp5_kid_necronomicon_light_large.png",
+			"name" : "Necro Jr.",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 5,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_hy_ddpat_light_large.png",
+			"name" : "Forest DDPAT",
+			"rarity" : 1
+		},
+		{
+			"id" : 11,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_hy_skulls_light_large.png",
+			"name" : "Skulls",
+			"rarity" : 3
+		},
+		{
+			"id" : 15,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_hy_gelpen_light_large.png",
+			"name" : "Gunsmoke",
+			"rarity" : 2
+		},
+		{
+			"id" : 28,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_an_navy_light_large.png",
+			"name" : "Anodized Navy",
+			"rarity" : 3
+		},
+		{
+			"id" : 102,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_so_whiteout_light_large.png",
+			"name" : "Whiteout",
+			"rarity" : 3
+		},
+		{
+			"id" : 141,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_sp_tape_orange_light_large.png",
+			"name" : "Orange Peel",
+			"rarity" : 2
+		},
+		{
+			"id" : 175,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_sp_dapple_light_large.png",
+			"name" : "Scorched",
+			"rarity" : 1
+		},
+		{
+			"id" : 209,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_so_olive_bravo_light_large.png",
+			"name" : "Groundwater",
+			"rarity" : 1
+		},
+		{
+			"id" : 213,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_am_ossify_blue_light_large.png",
+			"name" : "Ocean Foam",
+			"rarity" : 4
+		},
+		{
+			"id" : 245,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_sp_spray_army_light_large.png",
+			"name" : "Army Recon",
+			"rarity" : 1
+		},
+		{
+			"id" : 250,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_hy_varicamo_red_light_large.png",
+			"name" : "Full Stop",
+			"rarity" : 3
+		},
+		{
+			"id" : 354,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_cu_mp7-commander_light_large.png",
+			"name" : "Urban Hazard",
+			"rarity" : 3
+		},
+		{
+			"id" : 365,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_hy_plaid1_light_large.png",
+			"name" : "Olive Plaid",
+			"rarity" : 1
+		},
+		{
+			"id" : 423,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_aq_mp7_ultramodern_light_large.png",
+			"name" : "Armor Core",
+			"rarity" : 3
+		},
+		{
+			"id" : 442,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_sp_labyrinth_light_large.png",
+			"name" : "Asterion",
+			"rarity" : 1
+		},
+		{
+			"id" : 481,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_cu_mp7_nemsis_light_large.png",
+			"name" : "Nemesis",
+			"rarity" : 5
+		},
+		{
+			"id" : 500,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_cu_mp7_classified_light_large.png",
+			"name" : "Special Delivery",
+			"rarity" : 4
+		},
+		{
+			"id" : 536,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_sp_mp7_impire_light_large.png",
+			"name" : "Impire",
+			"rarity" : 4
+		},
+		{
+			"id" : 782,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_am_circuitboard_green_light_large.png",
+			"name" : "Motherboard",
+			"rarity" : 2
+		},
+		{
+			"id" : 752,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_aa_fade_mp7_light_large.png",
+			"name" : "Fade",
+			"rarity" : 4
+		},
+		{
+			"id" : 627,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_gs_final_pooldeadv2_light_large.png",
+			"name" : "Cirrus",
+			"rarity" : 3
+		},
+		{
+			"id" : 649,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_sp_mp7_tribal_yellow_light_large.png",
+			"name" : "Akoben",
+			"rarity" : 3
+		},
+		{
+			"id" : 696,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_gs_mp7_bloodsport_light_large.png",
+			"name" : "Bloodsport",
+			"rarity" : 6
+		},
+		{
+			"id" : 719,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_gs_powercore_mp7_light_large.png",
+			"name" : "Powercore",
+			"rarity" : 4
+		},
+		{
+			"id" : 728,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_sp_bud_green_light_large.png",
+			"name" : "Teal Blossom",
+			"rarity" : 3
+		},
+		{
+			"id" : 847,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_cu_mp7_racketeer_light_large.png",
+			"name" : "Mischief",
+			"rarity" : 3
+		},
+		{
+			"id" : 893,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_cu_mp7_replica_light_large.png",
+			"name" : "Neon Ply",
+			"rarity" : 4
+		},
+		{
+			"id" : 935,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_sp_zebracam_red_light_large.png",
+			"name" : "Prey",
+			"rarity" : 1
+		},
+		{
+			"id" : 1007,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_am_heist_plans_yellow_light_large.png",
+			"name" : "Vault Heist",
+			"rarity" : 2
+		},
+		{
+			"id" : 1023,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_hy_drywood_green_light_large.png",
+			"name" : "Tall Grass",
+			"rarity" : 2
+		},
+		{
+			"id" : 1096,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_cu_mp7_khaki_light_large.png",
+			"name" : "Guerrilla",
+			"rarity" : 3
+		},
+		{
+			"id" : 1133,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp7_cu_mp7_fear_light_large.png",
+			"name" : "Abyssal Apparition",
+			"rarity" : 5
+		}
+	],
+	[
+		{
+			"id" : 33,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_an_red_light_large.png",
+			"name" : "Hot Rod",
+			"rarity" : 3
+		},
+		{
+			"id" : 39,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_so_yellow_light_large.png",
+			"name" : "Bulldozer",
+			"rarity" : 4
+		},
+		{
+			"id" : 61,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_aa_vertigo_light_large.png",
+			"name" : "Hypnotic",
+			"rarity" : 4
+		},
+		{
+			"id" : 100,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_so_stormfront_light_large.png",
+			"name" : "Storm",
+			"rarity" : 1
+		},
+		{
+			"id" : 141,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_sp_tape_orange_light_large.png",
+			"name" : "Orange Peel",
+			"rarity" : 2
+		},
+		{
+			"id" : 148,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_sp_tape_short_sand_light_large.png",
+			"name" : "Sand Dashed",
+			"rarity" : 1
+		},
+		{
+			"id" : 199,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_sp_tape_dots_bravo_light_large.png",
+			"name" : "Dry Season",
+			"rarity" : 1
+		},
+		{
+			"id" : 262,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_am_thorny_rose_mp9_light_large.png",
+			"name" : "Rose Iron",
+			"rarity" : 4
+		},
+		{
+			"id" : 298,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_am_army_shine_light_large.png",
+			"name" : "Army Sheen",
+			"rarity" : 1
+		},
+		{
+			"id" : 329,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_am_metal_inlay_light_large.png",
+			"name" : "Dark Age",
+			"rarity" : 3
+		},
+		{
+			"id" : 366,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_hy_plaid2_light_large.png",
+			"name" : "Green Plaid",
+			"rarity" : 1
+		},
+		{
+			"id" : 368,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_hy_nuclear_pattern2_mp9_light_large.png",
+			"name" : "Setting Sun",
+			"rarity" : 3
+		},
+		{
+			"id" : 386,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_cu_mp9_chevron_light_large.png",
+			"name" : "Dart",
+			"rarity" : 3
+		},
+		{
+			"id" : 403,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_cu_mp9_deadly_poison_light_large.png",
+			"name" : "Deadly Poison",
+			"rarity" : 3
+		},
+		{
+			"id" : 448,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_aa_pandora_light_large.png",
+			"name" : "Pandora's Box",
+			"rarity" : 3
+		},
+		{
+			"id" : 482,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_am_mp9_nitrogen_light_large.png",
+			"name" : "Ruby Poison Dart",
+			"rarity" : 4
+		},
+		{
+			"id" : 755,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_hy_splatter3_light_large.png",
+			"name" : "Slide",
+			"rarity" : 1
+		},
+		{
+			"id" : 549,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_am_mp9_bioleak_light_large.png",
+			"name" : "Bioleak",
+			"rarity" : 3
+		},
+		{
+			"id" : 609,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_cu_mp9_narcis_light_large.png",
+			"name" : "Airlock",
+			"rarity" : 5
+		},
+		{
+			"id" : 630,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_aa_hide-mp9_light_large.png",
+			"name" : "Sand Scale",
+			"rarity" : 3
+		},
+		{
+			"id" : 679,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_cu_mp9_goo_light_large.png",
+			"name" : "Goo",
+			"rarity" : 4
+		},
+		{
+			"id" : 697,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_cu_mp9_black_sand_light_large.png",
+			"name" : "Black Sand",
+			"rarity" : 3
+		},
+		{
+			"id" : 715,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_cu_mp9_vein_light_large.png",
+			"name" : "Capillary",
+			"rarity" : 3
+		},
+		{
+			"id" : 734,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_cu_mp9_island_floral_light_large.png",
+			"name" : "Wild Lily",
+			"rarity" : 5
+		},
+		{
+			"id" : 867,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_am_stained_glass_light_large.png",
+			"name" : "Stained Glass",
+			"rarity" : 4
+		},
+		{
+			"id" : 804,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_gs_mp9_colony01_light_large.png",
+			"name" : "Modest Threat",
+			"rarity" : 3
+		},
+		{
+			"id" : 910,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_cu_mp9_hydra_light_large.png",
+			"name" : "Hydra",
+			"rarity" : 5
+		},
+		{
+			"id" : 931,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_sp_moro_carving_yellow_light_large.png",
+			"name" : "Old Roots",
+			"rarity" : 2
+		},
+		{
+			"id" : 820,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_am_mirage_flowers_metalic_light_large.png",
+			"name" : "Music Box",
+			"rarity" : 3
+		},
+		{
+			"id" : 1037,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_cu_mp9_food_chain_light_large.png",
+			"name" : "Food Chain",
+			"rarity" : 5
+		},
+		{
+			"id" : 1094,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_aa_mp9_fuji_pink_light_large.png",
+			"name" : "Mount Fuji",
+			"rarity" : 4
+		},
+		{
+			"id" : 1134,
+			"image_path" : "resource/flash/econ/default_generated/weapon_mp9_gs_mp9_starlight_light_large.png",
+			"name" : "Starlight Protector",
+			"rarity" : 6
+		}
+	],
+	[
+		{
+			"id" : 28,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_an_navy_light_large.png",
+			"name" : "Anodized Navy",
+			"rarity" : 3
+		},
+		{
+			"id" : 201,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_sp_palm_bravo_light_large.png",
+			"name" : "Palm",
+			"rarity" : 2
+		},
+		{
+			"id" : 240,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_hy_varicamo_desert_light_large.png",
+			"name" : "CaliCamo",
+			"rarity" : 2
+		},
+		{
+			"id" : 285,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_sp_negev_turq_terrain_light_large.png",
+			"name" : "Terrain",
+			"rarity" : 3
+		},
+		{
+			"id" : 298,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_am_army_shine_light_large.png",
+			"name" : "Army Sheen",
+			"rarity" : 1
+		},
+		{
+			"id" : 317,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_cu_bratatat_negev_light_large.png",
+			"name" : "Bratatat",
+			"rarity" : 3
+		},
+		{
+			"id" : 355,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_cu_negev_titanstorm_light_large.png",
+			"name" : "Desert-Strike",
+			"rarity" : 3
+		},
+		{
+			"id" : 369,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_sp_nuclear_pattern3_negev_light_large.png",
+			"name" : "Nuclear Waste",
+			"rarity" : 2
+		},
+		{
+			"id" : 432,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_am_negev_glory_light_large.png",
+			"name" : "Man-o'-war",
+			"rarity" : 3
+		},
+		{
+			"id" : 483,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_cu_negev_annihilator_light_large.png",
+			"name" : "Loudmouth",
+			"rarity" : 4
+		},
+		{
+			"id" : 514,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_cu_negev_impact_light_large.png",
+			"name" : "Power Loader",
+			"rarity" : 4
+		},
+		{
+			"id" : 783,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_hy_ducts_yellow_light_large.png",
+			"name" : "Bulkhead",
+			"rarity" : 2
+		},
+		{
+			"id" : 610,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_hy_negev_dazzle_light_large.png",
+			"name" : "Dazzle",
+			"rarity" : 3
+		},
+		{
+			"id" : 698,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_sp_negev_lionfish_light_large.png",
+			"name" : "Lionfish",
+			"rarity" : 4
+		},
+		{
+			"id" : 920,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_hy_veneto_tan_light_large.png",
+			"name" : "Boroque Sand",
+			"rarity" : 1
+		},
+		{
+			"id" : 763,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_gs_negev_thor_light_large.png",
+			"name" : "MjÃƒÂ¶lnir",
+			"rarity" : 5
+		},
+		{
+			"id" : 950,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_cu_negev_prototype_light_large.png",
+			"name" : "Prototype",
+			"rarity" : 3
+		},
+		{
+			"id" : 958,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_cu_negev_ultralight_light_large.png",
+			"name" : "Ultralight",
+			"rarity" : 3
+		},
+		{
+			"id" : 1012,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_hy_phoenix_tags_red_light_large.png",
+			"name" : "Phoenix Stencil",
+			"rarity" : 3
+		},
+		{
+			"id" : 1043,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_cu_negev_devtexture_light_large.png",
+			"name" : "dev_texture",
+			"rarity" : 4
+		},
+		{
+			"id" : 1080,
+			"image_path" : "resource/flash/econ/default_generated/weapon_negev_hy_vertigospray_light_large.png",
+			"name" : "Infrastructure",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 3,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_so_red_light_large.png",
+			"name" : "Candy Apple",
+			"rarity" : 2
+		},
+		{
+			"id" : 25,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_sp_leaves_light_large.png",
+			"name" : "Forest Leaves",
+			"rarity" : 1
+		},
+		{
+			"id" : 62,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_cu_spring_nova_light_large.png",
+			"name" : "Bloomstick",
+			"rarity" : 5
+		},
+		{
+			"id" : 99,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_so_sand_light_large.png",
+			"name" : "Sand Dune",
+			"rarity" : 1
+		},
+		{
+			"id" : 107,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_sp_mesh_arctic_contrast_light_large.png",
+			"name" : "Polar Mesh",
+			"rarity" : 1
+		},
+		{
+			"id" : 158,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_cu_walnut_nova_light_large.png",
+			"name" : "Walnut",
+			"rarity" : 1
+		},
+		{
+			"id" : 164,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_hy_hunter_modern_light_large.png",
+			"name" : "Modern Hunter",
+			"rarity" : 3
+		},
+		{
+			"id" : 166,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_hy_hunter_blaze_orange_light_large.png",
+			"name" : "Blaze Orange",
+			"rarity" : 3
+		},
+		{
+			"id" : 170,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_sp_zebracam_light_large.png",
+			"name" : "Predator",
+			"rarity" : 1
+		},
+		{
+			"id" : 191,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_hy_seaside_bravo_light_large.png",
+			"name" : "Tempest",
+			"rarity" : 3
+		},
+		{
+			"id" : 214,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_am_crumple_light_large.png",
+			"name" : "Graphite",
+			"rarity" : 4
+		},
+		{
+			"id" : 225,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_sp_camo_wood_blue_light_large.png",
+			"name" : "Ghost Camo",
+			"rarity" : 3
+		},
+		{
+			"id" : 248,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_am_crystallized_light_large.png",
+			"name" : "Red Quartz",
+			"rarity" : 4
+		},
+		{
+			"id" : 263,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_cu_skull_nova_light_large.png",
+			"name" : "Rising Skull",
+			"rarity" : 4
+		},
+		{
+			"id" : 286,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_cu_nova_antique_light_large.png",
+			"name" : "Antique",
+			"rarity" : 5
+		},
+		{
+			"id" : 294,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_so_green_light_large.png",
+			"name" : "Green Apple",
+			"rarity" : 2
+		},
+		{
+			"id" : 298,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_am_army_shine_light_large.png",
+			"name" : "Army Sheen",
+			"rarity" : 1
+		},
+		{
+			"id" : 299,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_am_oval_hex_light_large.png",
+			"name" : "Caged Steel",
+			"rarity" : 2
+		},
+		{
+			"id" : 323,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_aq_steel_light_large.png",
+			"name" : "Rust Coat",
+			"rarity" : 2
+		},
+		{
+			"id" : 356,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_cu_nova_koi_light_large.png",
+			"name" : "Koi",
+			"rarity" : 4
+		},
+		{
+			"id" : 450,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_hy_zodiac1_light_large.png",
+			"name" : "Moon in Libra",
+			"rarity" : 1
+		},
+		{
+			"id" : 484,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_cu_nova_ranger_light_large.png",
+			"name" : "Ranger",
+			"rarity" : 3
+		},
+		{
+			"id" : 537,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_cu_nova_hyperbeast_light_large.png",
+			"name" : "Hyper Beast",
+			"rarity" : 5
+		},
+		{
+			"id" : 785,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_hy_ducts_grey_light_large.png",
+			"name" : "Mandrel",
+			"rarity" : 1
+		},
+		{
+			"id" : 590,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_aq_nova_sci_fi_light_large.png",
+			"name" : "Exo",
+			"rarity" : 3
+		},
+		{
+			"id" : 634,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_am_nova_sand_light_large.png",
+			"name" : "Gila",
+			"rarity" : 4
+		},
+		{
+			"id" : 699,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_gs_nova_anchorite_light_large.png",
+			"name" : "Wild Six",
+			"rarity" : 4
+		},
+		{
+			"id" : 716,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_cu_nova_toy_soldier_light_large.png",
+			"name" : "Toy Soldier",
+			"rarity" : 4
+		},
+		{
+			"id" : 746,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_am_veneto2_light_large.png",
+			"name" : "Baroque Orange",
+			"rarity" : 4
+		},
+		{
+			"id" : 809,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_gs_nova_hunter_brute_light_large.png",
+			"name" : "Wood Fired",
+			"rarity" : 3
+		},
+		{
+			"id" : 890,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_cu_nova_featherswing_light_large.png",
+			"name" : "Plume",
+			"rarity" : 3
+		},
+		{
+			"id" : 929,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_hy_torn_camo_paints_light_large.png",
+			"name" : "Quick Sand",
+			"rarity" : 3
+		},
+		{
+			"id" : 987,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_cu_nova_polymer_light_large.png",
+			"name" : "Clear Polymer",
+			"rarity" : 4
+		},
+		{
+			"id" : 1051,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_sp_nova_wind_dispersal_light_large.png",
+			"name" : "Windblown",
+			"rarity" : 3
+		},
+		{
+			"id" : 1077,
+			"image_path" : "resource/flash/econ/default_generated/weapon_nova_hy_vertigoillusion_yellow_light_large.png",
+			"name" : "Interlock",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 21,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_hy_granite_light_large.png",
+			"name" : "Granite Marbleized",
+			"rarity" : 1
+		},
+		{
+			"id" : 32,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_an_silver_light_large.png",
+			"name" : "Silver",
+			"rarity" : 2
+		},
+		{
+			"id" : 71,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_am_scorpion_p2000_light_large.png",
+			"name" : "Scorpion",
+			"rarity" : 3
+		},
+		{
+			"id" : 95,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_so_grassland_light_large.png",
+			"name" : "Grassland",
+			"rarity" : 1
+		},
+		{
+			"id" : 104,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_sp_leaves_grassland_light_large.png",
+			"name" : "Grassland Leaves",
+			"rarity" : 1
+		},
+		{
+			"id" : 184,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_cu_favela_p2000_light_large.png",
+			"name" : "Corticera",
+			"rarity" : 4
+		},
+		{
+			"id" : 211,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_am_ossify_blue_p2000_bravo_light_large.png",
+			"name" : "Ocean Foam",
+			"rarity" : 4
+		},
+		{
+			"id" : 246,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_aa_fade_metallic_light_large.png",
+			"name" : "Amber Fade",
+			"rarity" : 3
+		},
+		{
+			"id" : 275,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_hy_poly_camo_light_large.png",
+			"name" : "Red FragCam",
+			"rarity" : 2
+		},
+		{
+			"id" : 327,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_am_chainmail_light_large.png",
+			"name" : "Chainmail",
+			"rarity" : 2
+		},
+		{
+			"id" : 338,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_cu_p2000_pulse_light_large.png",
+			"name" : "Pulse",
+			"rarity" : 2
+		},
+		{
+			"id" : 346,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_cu_luggage_p2000_light_large.png",
+			"name" : "Coach Class",
+			"rarity" : 1
+		},
+		{
+			"id" : 357,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_cu_p2000_ivory_light_large.png",
+			"name" : "Ivory",
+			"rarity" : 2
+		},
+		{
+			"id" : 389,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_cu_p2000_fire_elemental_light_large.png",
+			"name" : "Fire Elemental",
+			"rarity" : 5
+		},
+		{
+			"id" : 443,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_sp_labyrinth2_light_large.png",
+			"name" : "Pathfinder",
+			"rarity" : 1
+		},
+		{
+			"id" : 485,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_aq_p2000_boom_light_large.png",
+			"name" : "Handgun",
+			"rarity" : 3
+		},
+		{
+			"id" : 515,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_am_p2000_imperial_red_light_large.png",
+			"name" : "Imperial",
+			"rarity" : 2
+		},
+		{
+			"id" : 550,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_hy_p2000_oceani_light_large.png",
+			"name" : "Oceanic",
+			"rarity" : 2
+		},
+		{
+			"id" : 591,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_gs_p2000_imperial_dragon_light_large.png",
+			"name" : "Imperial Dragon",
+			"rarity" : 4
+		},
+		{
+			"id" : 635,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_gs_p2000-sport_light_large.png",
+			"name" : "Turf",
+			"rarity" : 2
+		},
+		{
+			"id" : 667,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_cu_p2000_hunter_light_large.png",
+			"name" : "Woodsman",
+			"rarity" : 3
+		},
+		{
+			"id" : 700,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_cu_p2000_urban_hazard_light_large.png",
+			"name" : "Urban Hazard",
+			"rarity" : 2
+		},
+		{
+			"id" : 894,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_cu_p2000_obsidian_light_large.png",
+			"name" : "Obsidian",
+			"rarity" : 3
+		},
+		{
+			"id" : 951,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_aq_p2000_acid_clover_light_large.png",
+			"name" : "Acid Etched",
+			"rarity" : 3
+		},
+		{
+			"id" : 960,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_aq_p2000_lost_world_light_large.png",
+			"name" : "Gnarled",
+			"rarity" : 2
+		},
+		{
+			"id" : 997,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_am_numbers_red_blue_light_large.png",
+			"name" : "Dispatch",
+			"rarity" : 2
+		},
+		{
+			"id" : 1019,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_am_black_panther_light_large.png",
+			"name" : "Panther Camo",
+			"rarity" : 1
+		},
+		{
+			"id" : 1055,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_aa_spacerace_orange_light_large.png",
+			"name" : "Space Race",
+			"rarity" : 3
+		},
+		{
+			"id" : 1138,
+			"image_path" : "resource/flash/econ/default_generated/weapon_hkp2000_cu_p2k_flying_dream_light_large.png",
+			"name" : "Lifted Spirits",
+			"rarity" : 2
+		}
+	],
+	[
+		{
+			"id" : 15,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_gelpen_light_large.png",
+			"name" : "Gunsmoke",
+			"rarity" : 2
+		},
+		{
+			"id" : 27,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_sp_tape_light_large.png",
+			"name" : "Bone Mask",
+			"rarity" : 1
+		},
+		{
+			"id" : 34,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_am_urban_light_large.png",
+			"name" : "Metallic DDPAT",
+			"rarity" : 2
+		},
+		{
+			"id" : 77,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_forest_boreal_light_large.png",
+			"name" : "Boreal Forest",
+			"rarity" : 1
+		},
+		{
+			"id" : 78,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_forest_night_light_large.png",
+			"name" : "Forest Night",
+			"rarity" : 1
+		},
+		{
+			"id" : 99,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_so_sand_light_large.png",
+			"name" : "Sand Dune",
+			"rarity" : 1
+		},
+		{
+			"id" : 102,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_so_whiteout_light_large.png",
+			"name" : "Whiteout",
+			"rarity" : 3
+		},
+		{
+			"id" : 162,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_sp_splash_p250_light_large.png",
+			"name" : "Splash",
+			"rarity" : 4
+		},
+		{
+			"id" : 164,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_hunter_modern_light_large.png",
+			"name" : "Modern Hunter",
+			"rarity" : 3
+		},
+		{
+			"id" : 168,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_sp_nukestripe_green_light_large.png",
+			"name" : "Nuclear Threat",
+			"rarity" : 4
+		},
+		{
+			"id" : 207,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_crumple_dark_bravo_light_large.png",
+			"name" : "Facets",
+			"rarity" : 2
+		},
+		{
+			"id" : 219,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_redhex_light_large.png",
+			"name" : "Hive",
+			"rarity" : 3
+		},
+		{
+			"id" : 230,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_am_ddpatdense_silver_light_large.png",
+			"name" : "Steel Disruption",
+			"rarity" : 3
+		},
+		{
+			"id" : 258,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_cu_p250_refined_light_large.png",
+			"name" : "Mehndi",
+			"rarity" : 5
+		},
+		{
+			"id" : 271,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_am_p250_beaded_paint_light_large.png",
+			"name" : "Undertow",
+			"rarity" : 5
+		},
+		{
+			"id" : 295,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_cu_money_light_large.png",
+			"name" : "Franklin",
+			"rarity" : 5
+		},
+		{
+			"id" : 358,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_cu_bittersweet_light_large.png",
+			"name" : "Supernova",
+			"rarity" : 4
+		},
+		{
+			"id" : 373,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_nuclear_skulls4_p250_light_large.png",
+			"name" : "Contamination",
+			"rarity" : 2
+		},
+		{
+			"id" : 388,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_aq_p250_cartel_light_large.png",
+			"name" : "Cartel",
+			"rarity" : 5
+		},
+		{
+			"id" : 404,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_cu_p250_mandala_light_large.png",
+			"name" : "Muertos",
+			"rarity" : 5
+		},
+		{
+			"id" : 426,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_aq_p250_contour_light_large.png",
+			"name" : "Valence",
+			"rarity" : 3
+		},
+		{
+			"id" : 466,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_kimono_diamonds_red_light_large.png",
+			"name" : "Crimson Kimono",
+			"rarity" : 2
+		},
+		{
+			"id" : 467,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_sp_kimono_diamonds_light_large.png",
+			"name" : "Mint Kimono",
+			"rarity" : 1
+		},
+		{
+			"id" : 501,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_p250_crackshot_light_large.png",
+			"name" : "Wingshot",
+			"rarity" : 4
+		},
+		{
+			"id" : 777,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_blueprint_red_light_large.png",
+			"name" : "Facility Draft",
+			"rarity" : 1
+		},
+		{
+			"id" : 786,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_ducts_blue_light_large.png",
+			"name" : "Exchanger",
+			"rarity" : 3
+		},
+		{
+			"id" : 749,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_gs_p250_checker_light_large.png",
+			"name" : "Vino Primo",
+			"rarity" : 4
+		},
+		{
+			"id" : 125,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_cu_xray_p250_light_large.png",
+			"name" : "X-Ray",
+			"rarity" : 4
+		},
+		{
+			"id" : 551,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_cu_p250_asiimov_light_large.png",
+			"name" : "Asiimov",
+			"rarity" : 5
+		},
+		{
+			"id" : 592,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_gs_p250_metal_panels_light_large.png",
+			"name" : "Iron Clad",
+			"rarity" : 3
+		},
+		{
+			"id" : 650,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_am_p250_sputnik_light_large.png",
+			"name" : "Ripple",
+			"rarity" : 3
+		},
+		{
+			"id" : 668,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_cu_p250_axiom_light_large.png",
+			"name" : "Red Rock",
+			"rarity" : 4
+		},
+		{
+			"id" : 678,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_cu_p250_cybercroc_light_large.png",
+			"name" : "See Ya Later",
+			"rarity" : 6
+		},
+		{
+			"id" : 741,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_am_ren_dark_light_large.png",
+			"name" : "Dark Filigree",
+			"rarity" : 2
+		},
+		{
+			"id" : 813,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_aa_p250_gravediggers_light_large.png",
+			"name" : "Nevermore",
+			"rarity" : 4
+		},
+		{
+			"id" : 848,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_aq_p250_verdigris_light_large.png",
+			"name" : "Verdigris",
+			"rarity" : 3
+		},
+		{
+			"id" : 907,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_gs_p250_inferno_light_large.png",
+			"name" : "Inferno",
+			"rarity" : 4
+		},
+		{
+			"id" : 928,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_desert_multicam_light_large.png",
+			"name" : "Black & Tan",
+			"rarity" : 3
+		},
+		{
+			"id" : 825,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_sp_desert_skulls_dawn_light_large.png",
+			"name" : "Drought",
+			"rarity" : 1
+		},
+		{
+			"id" : 968,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_cu_p250_cassette_light_large.png",
+			"name" : "Cassette",
+			"rarity" : 3
+		},
+		{
+			"id" : 982,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_cu_p250_infect_light_large.png",
+			"name" : "Contaminant",
+			"rarity" : 3
+		},
+		{
+			"id" : 1030,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_hy_p250_tiger_light_large.png",
+			"name" : "Bengal Tiger",
+			"rarity" : 3
+		},
+		{
+			"id" : 1044,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_gs_p250_cybershell_light_large.png",
+			"name" : "Cyber Shell",
+			"rarity" : 4
+		},
+		{
+			"id" : 1081,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p250_aa_vertigogeo_neon_light_large.png",
+			"name" : "Digital Architect",
+			"rarity" : 4
+		}
+	],
+	[
+		{
+			"id" : 20,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_hy_zombie_light_large.png",
+			"name" : "Virus",
+			"rarity" : 4
+		},
+		{
+			"id" : 67,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_am_slither_p90_light_large.png",
+			"name" : "Cold Blooded",
+			"rarity" : 5
+		},
+		{
+			"id" : 100,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_so_stormfront_light_large.png",
+			"name" : "Storm",
+			"rarity" : 1
+		},
+		{
+			"id" : 111,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_sp_mesh_glacier_light_large.png",
+			"name" : "Glacier Mesh",
+			"rarity" : 3
+		},
+		{
+			"id" : 124,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_sp_spray_sand_light_large.png",
+			"name" : "Sand Spray",
+			"rarity" : 1
+		},
+		{
+			"id" : 156,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_cu_catskulls_p90_light_large.png",
+			"name" : "Death by Kitty",
+			"rarity" : 6
+		},
+		{
+			"id" : 169,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_sp_nukestripe_maroon_light_large.png",
+			"name" : "Fallout Warning",
+			"rarity" : 2
+		},
+		{
+			"id" : 175,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_sp_dapple_light_large.png",
+			"name" : "Scorched",
+			"rarity" : 1
+		},
+		{
+			"id" : 182,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_cu_dragon_p90_bravo_light_large.png",
+			"name" : "Emerald Dragon",
+			"rarity" : 5
+		},
+		{
+			"id" : 228,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_hy_modspots_light_large.png",
+			"name" : "Blind Spot",
+			"rarity" : 4
+		},
+		{
+			"id" : 234,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_sp_twigs_light_large.png",
+			"name" : "Ash Wood",
+			"rarity" : 2
+		},
+		{
+			"id" : 244,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_sp_mesh_hot_and_cold_light_large.png",
+			"name" : "Teardown",
+			"rarity" : 3
+		},
+		{
+			"id" : 283,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_cu_p90_trigon_light_large.png",
+			"name" : "Trigon",
+			"rarity" : 5
+		},
+		{
+			"id" : 311,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_cu_p90_scorpius_light_large.png",
+			"name" : "Desert Warfare",
+			"rarity" : 3
+		},
+		{
+			"id" : 335,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_an_royalbleed_light_large.png",
+			"name" : "Module",
+			"rarity" : 3
+		},
+		{
+			"id" : 342,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_cu_brown_leather_p90_light_large.png",
+			"name" : "Leather",
+			"rarity" : 2
+		},
+		{
+			"id" : 359,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_cu_p90-asiimov_light_large.png",
+			"name" : "Asiimov",
+			"rarity" : 6
+		},
+		{
+			"id" : 486,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_cu_p90_mastery_light_large.png",
+			"name" : "Elite Build",
+			"rarity" : 3
+		},
+		{
+			"id" : 516,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_cu_p90_shapewood_light_large.png",
+			"name" : "Shapewood",
+			"rarity" : 5
+		},
+		{
+			"id" : 776,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_hy_blueprint_aqua_light_large.png",
+			"name" : "Facility Negative",
+			"rarity" : 3
+		},
+		{
+			"id" : 593,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_gs_p90_full_throttle_light_large.png",
+			"name" : "Chopper",
+			"rarity" : 4
+		},
+		{
+			"id" : 611,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_cu_p90_grimm_light_large.png",
+			"name" : "Grim",
+			"rarity" : 3
+		},
+		{
+			"id" : 636,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_gs_p90_shallow_grave_light_large.png",
+			"name" : "Shallow Grave",
+			"rarity" : 5
+		},
+		{
+			"id" : 669,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_hy_p90_barebones_blue_light_large.png",
+			"name" : "Death Grip",
+			"rarity" : 4
+		},
+		{
+			"id" : 717,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_gs_p90_tread_light_large.png",
+			"name" : "Traction",
+			"rarity" : 3
+		},
+		{
+			"id" : 726,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_sp_bloom_orange_light_large.png",
+			"name" : "Sunset Lily",
+			"rarity" : 2
+		},
+		{
+			"id" : 744,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_am_veneto_red_light_large.png",
+			"name" : "Baroque Red",
+			"rarity" : 3
+		},
+		{
+			"id" : 759,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_am_jorm_blue_light_large.png",
+			"name" : "Astral JÃƒÂ¶rmungandr",
+			"rarity" : 4
+		},
+		{
+			"id" : 849,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_cu_p90_offworld_light_large.png",
+			"name" : "Off World",
+			"rarity" : 3
+		},
+		{
+			"id" : 911,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_cu_p90_nostalgia_light_large.png",
+			"name" : "Nostalgia",
+			"rarity" : 5
+		},
+		{
+			"id" : 925,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_hy_ddpat_desert_light_large.png",
+			"name" : "Desert DDPAT",
+			"rarity" : 1
+		},
+		{
+			"id" : 828,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_sp_moro_textile_green_vine_light_large.png",
+			"name" : "Verdant Growth",
+			"rarity" : 2
+		},
+		{
+			"id" : 969,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_gs_p90_container_light_large.png",
+			"name" : "Freight",
+			"rarity" : 3
+		},
+		{
+			"id" : 977,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_hy_p90_dino_rampage_light_large.png",
+			"name" : "Cocoa Rampage",
+			"rarity" : 3
+		},
+		{
+			"id" : 1015,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_am_tigers_brown_light_large.png",
+			"name" : "Tiger Pit",
+			"rarity" : 3
+		},
+		{
+			"id" : 1000,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_cu_jaguar_p90_light_large.png",
+			"name" : "Run and Hide",
+			"rarity" : 5
+		},
+		{
+			"id" : 1020,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_aa_ancient_brown_light_large.png",
+			"name" : "Ancient Earth",
+			"rarity" : 1
+		},
+		{
+			"id" : 1074,
+			"image_path" : "resource/flash/econ/default_generated/weapon_p90_hy_vertigogeo_light_large.png",
+			"name" : "Schematic",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 3,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_so_red_light_large.png",
+			"name" : "Candy Apple",
+			"rarity" : 2
+		},
+		{
+			"id" : 13,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_hy_splatter_light_large.png",
+			"name" : "Blue Streak",
+			"rarity" : 4
+		},
+		{
+			"id" : 25,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_sp_leaves_light_large.png",
+			"name" : "Forest Leaves",
+			"rarity" : 1
+		},
+		{
+			"id" : 70,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_am_carbon_fiber_light_large.png",
+			"name" : "Carbon Fiber",
+			"rarity" : 2
+		},
+		{
+			"id" : 148,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_sp_tape_short_sand_light_large.png",
+			"name" : "Sand Dashed",
+			"rarity" : 1
+		},
+		{
+			"id" : 149,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_sp_tape_short_urban_light_large.png",
+			"name" : "Urban Dashed",
+			"rarity" : 1
+		},
+		{
+			"id" : 159,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_aq_brass_light_large.png",
+			"name" : "Brass",
+			"rarity" : 3
+		},
+		{
+			"id" : 164,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_hy_hunter_modern_light_large.png",
+			"name" : "Modern Hunter",
+			"rarity" : 3
+		},
+		{
+			"id" : 171,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_sp_nukestripe_brown_light_large.png",
+			"name" : "Irradiated Alert",
+			"rarity" : 1
+		},
+		{
+			"id" : 203,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_aq_steel_bravo_light_large.png",
+			"name" : "Rust Coat",
+			"rarity" : 3
+		},
+		{
+			"id" : 224,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_hy_water_crest_light_large.png",
+			"name" : "Water Sigil",
+			"rarity" : 3
+		},
+		{
+			"id" : 236,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_hy_varicamo_night_light_large.png",
+			"name" : "Night Ops",
+			"rarity" : 2
+		},
+		{
+			"id" : 267,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_am_turqoise_halftone_light_large.png",
+			"name" : "Cobalt Halftone",
+			"rarity" : 3
+		},
+		{
+			"id" : 293,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_hy_nerodia_light_large.png",
+			"name" : "Death Rattle",
+			"rarity" : 1
+		},
+		{
+			"id" : 306,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_cu_bizon_antique_light_large.png",
+			"name" : "Antique",
+			"rarity" : 4
+		},
+		{
+			"id" : 349,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_cu_bizon-osiris_light_large.png",
+			"name" : "Osiris",
+			"rarity" : 4
+		},
+		{
+			"id" : 376,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_so_grey_nuclear_green_bizon_light_large.png",
+			"name" : "Chemical Green",
+			"rarity" : 2
+		},
+		{
+			"id" : 457,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_hy_bamboo_jungle_ink_light_large.png",
+			"name" : "Bamboo Print",
+			"rarity" : 1
+		},
+		{
+			"id" : 508,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_cu_bizon_noxious_light_large.png",
+			"name" : "Fuel Rod",
+			"rarity" : 4
+		},
+		{
+			"id" : 526,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_cu_bizon_citizen_light_large.png",
+			"name" : "Photic Zone",
+			"rarity" : 3
+		},
+		{
+			"id" : 775,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_hy_blueprint_white_light_large.png",
+			"name" : "Facility Sketch",
+			"rarity" : 1
+		},
+		{
+			"id" : 542,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_cu_bizon_Curse_light_large.png",
+			"name" : "Judgement of Anubis",
+			"rarity" : 6
+		},
+		{
+			"id" : 594,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_gs_pp_bizon_harvester_light_large.png",
+			"name" : "Harvester",
+			"rarity" : 3
+		},
+		{
+			"id" : 641,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_hy_bizon_torn_green_light_large.png",
+			"name" : "Jungle Slipstream",
+			"rarity" : 3
+		},
+		{
+			"id" : 676,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_cu_bizon_all_in_light_large.png",
+			"name" : "High Roller",
+			"rarity" : 5
+		},
+		{
+			"id" : 692,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_cu_bizon_riot_light_large.png",
+			"name" : "Night Riot",
+			"rarity" : 3
+		},
+		{
+			"id" : 873,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_so_aqua_stmarc_light_large.png",
+			"name" : "Seabird",
+			"rarity" : 1
+		},
+		{
+			"id" : 884,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_cu_bizon_road_warrior_light_large.png",
+			"name" : "Embargo",
+			"rarity" : 4
+		},
+		{
+			"id" : 829,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_hy_lizard_skin_light_large.png",
+			"name" : "Anolis",
+			"rarity" : 1
+		},
+		{
+			"id" : 973,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_gs_bizon_hellraider_light_large.png",
+			"name" : "Runic",
+			"rarity" : 3
+		},
+		{
+			"id" : 1083,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_aa_wiring_light_large.png",
+			"name" : "Breaker Box",
+			"rarity" : 2
+		},
+		{
+			"id" : 1099,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_gs_bizon_flasher_light_large.png",
+			"name" : "Lumen",
+			"rarity" : 3
+		},
+		{
+			"id" : 1125,
+			"image_path" : "resource/flash/econ/default_generated/weapon_bizon_cu_bizon_spacecat_light_large.png",
+			"name" : "Space Cat",
+			"rarity" : 4
+		}
+	],
+	[
+		{
+			"id" : 12,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_hy_webs_light_large.png",
+			"name" : "Crimson Web",
+			"rarity" : 3
+		},
+		{
+			"id" : 27,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_sp_tape_light_large.png",
+			"name" : "Bone Mask",
+			"rarity" : 1
+		},
+		{
+			"id" : 37,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_aa_flames_light_large.png",
+			"name" : "Blaze",
+			"rarity" : 3
+		},
+		{
+			"id" : 40,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_so_night_light_large.png",
+			"name" : "Night",
+			"rarity" : 1
+		},
+		{
+			"id" : 522,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_aa_fade_revolver_light_large.png",
+			"name" : "Fade",
+			"rarity" : 6
+		},
+		{
+			"id" : 523,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_aa_fade_metallic_revolver_light_large.png",
+			"name" : "Amber Fade",
+			"rarity" : 5
+		},
+		{
+			"id" : 798,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_so_orange_accents3_light_large.png",
+			"name" : "Nitro",
+			"rarity" : 2
+		},
+		{
+			"id" : 595,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_cu_r8_cybersport_light_large.png",
+			"name" : "Reboot",
+			"rarity" : 4
+		},
+		{
+			"id" : 683,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_gs_r8_llamacannon_light_large.png",
+			"name" : "Llama Cannon",
+			"rarity" : 5
+		},
+		{
+			"id" : 701,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_gs_revolver_tread_light_large.png",
+			"name" : "Grip",
+			"rarity" : 3
+		},
+		{
+			"id" : 721,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_cu_r8_survivalist_light_large.png",
+			"name" : "Survivalist",
+			"rarity" : 3
+		},
+		{
+			"id" : 866,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_sp_spray_water_light_large.png",
+			"name" : "Canal Spray",
+			"rarity" : 1
+		},
+		{
+			"id" : 843,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_cu_revolver_oppressor_light_large.png",
+			"name" : "Skull Crusher",
+			"rarity" : 5
+		},
+		{
+			"id" : 892,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_gs_r8_memento_light_large.png",
+			"name" : "Memento",
+			"rarity" : 3
+		},
+		{
+			"id" : 924,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_hy_brush_camo_tan_light_large.png",
+			"name" : "Desert Brush",
+			"rarity" : 1
+		},
+		{
+			"id" : 952,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_gs_r8_leviathan_light_large.png",
+			"name" : "Bone Forged",
+			"rarity" : 3
+		},
+		{
+			"id" : 1011,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_am_phoenix_tags_blue_light_large.png",
+			"name" : "Phoenix Marker",
+			"rarity" : 2
+		},
+		{
+			"id" : 1047,
+			"image_path" : "resource/flash/econ/default_generated/weapon_revolver_gs_r8_rustking_light_large.png",
+			"name" : "Junk Yard",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 5,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_hy_ddpat_light_large.png",
+			"name" : "Forest DDPAT",
+			"rarity" : 1
+		},
+		{
+			"id" : 30,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_sp_snake_light_large.png",
+			"name" : "Snake Camo",
+			"rarity" : 2
+		},
+		{
+			"id" : 41,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_aq_copper_light_large.png",
+			"name" : "Copper",
+			"rarity" : 3
+		},
+		{
+			"id" : 83,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_hy_ddpat_orange_light_large.png",
+			"name" : "Orange DDPAT",
+			"rarity" : 4
+		},
+		{
+			"id" : 119,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_sp_spray_desert_sage_light_large.png",
+			"name" : "Sage Spray",
+			"rarity" : 1
+		},
+		{
+			"id" : 171,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_sp_nukestripe_brown_light_large.png",
+			"name" : "Irradiated Alert",
+			"rarity" : 1
+		},
+		{
+			"id" : 204,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_hy_ali_tile_bravo_light_large.png",
+			"name" : "Mosaico",
+			"rarity" : 2
+		},
+		{
+			"id" : 246,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_aa_fade_metallic_light_large.png",
+			"name" : "Amber Fade",
+			"rarity" : 3
+		},
+		{
+			"id" : 250,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_hy_varicamo_red_light_large.png",
+			"name" : "Full Stop",
+			"rarity" : 3
+		},
+		{
+			"id" : 256,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_cu_sawedoff_octopump_light_large.png",
+			"name" : "The Kraken",
+			"rarity" : 6
+		},
+		{
+			"id" : 323,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_aq_steel_light_large.png",
+			"name" : "Rust Coat",
+			"rarity" : 2
+		},
+		{
+			"id" : 345,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_cu_green_leather_sawedoff_light_large.png",
+			"name" : "First Class",
+			"rarity" : 3
+		},
+		{
+			"id" : 390,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_aq_sawedoff_blackgold_light_large.png",
+			"name" : "Highwayman",
+			"rarity" : 4
+		},
+		{
+			"id" : 405,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_cu_sawedoff_deva_light_large.png",
+			"name" : "Serenity",
+			"rarity" : 4
+		},
+		{
+			"id" : 434,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_cu_sawedoff_origami_light_large.png",
+			"name" : "Origami",
+			"rarity" : 3
+		},
+		{
+			"id" : 458,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_hy_bamboo_jungle_black_light_large.png",
+			"name" : "Bamboo Shadow",
+			"rarity" : 1
+		},
+		{
+			"id" : 517,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_gs_sawedoff_necromancer_light_large.png",
+			"name" : "Yorick",
+			"rarity" : 3
+		},
+		{
+			"id" : 797,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_aa_vertigo_red_light_large.png",
+			"name" : "Brake Light",
+			"rarity" : 3
+		},
+		{
+			"id" : 552,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_gs_sawedoff_fubar_light_large.png",
+			"name" : "Fubar",
+			"rarity" : 3
+		},
+		{
+			"id" : 596,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_cu_sawed_off_lime_light_large.png",
+			"name" : "Limelight",
+			"rarity" : 4
+		},
+		{
+			"id" : 638,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_cu_wp_sawedoff_light_large.png",
+			"name" : "Wasteland Princess",
+			"rarity" : 5
+		},
+		{
+			"id" : 655,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_aq_sawedoff_zander2_light_large.png",
+			"name" : "Zander",
+			"rarity" : 3
+		},
+		{
+			"id" : 673,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_aq_sawed-off_flower_light_large.png",
+			"name" : "Morris",
+			"rarity" : 3
+		},
+		{
+			"id" : 720,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_cu_sawedoff_devourer_light_large.png",
+			"name" : "Devourer",
+			"rarity" : 5
+		},
+		{
+			"id" : 870,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_sp_palm_green_light_large.png",
+			"name" : "Jungle Thicket",
+			"rarity" : 1
+		},
+		{
+			"id" : 814,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_cu_sawedoff_black_sand_light_large.png",
+			"name" : "Black Sand",
+			"rarity" : 3
+		},
+		{
+			"id" : 880,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_hy_desert_bloom_light_large.png",
+			"name" : "Parched",
+			"rarity" : 1
+		},
+		{
+			"id" : 953,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_cu_sawedoff_apocalypto_light_large.png",
+			"name" : "Apocalypto",
+			"rarity" : 4
+		},
+		{
+			"id" : 1014,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_hy_tigers_tan_light_large.png",
+			"name" : "Clay Ambush",
+			"rarity" : 1
+		},
+		{
+			"id" : 1140,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sawedoff_cu_sawedoff_ouija_light_large.png",
+			"name" : "Spirit Board",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 46,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_so_pmc_light_large.png",
+			"name" : "Contractor",
+			"rarity" : 1
+		},
+		{
+			"id" : 70,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_am_carbon_fiber_light_large.png",
+			"name" : "Carbon Fiber",
+			"rarity" : 2
+		},
+		{
+			"id" : 100,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_so_stormfront_light_large.png",
+			"name" : "Storm",
+			"rarity" : 1
+		},
+		{
+			"id" : 116,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_sp_mesh_sand_light_large.png",
+			"name" : "Sand Mesh",
+			"rarity" : 1
+		},
+		{
+			"id" : 157,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_sp_palm_light_large.png",
+			"name" : "Palm",
+			"rarity" : 2
+		},
+		{
+			"id" : 159,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_aq_brass_light_large.png",
+			"name" : "Brass",
+			"rarity" : 3
+		},
+		{
+			"id" : 165,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_hy_hunter_blaze_pink_light_large.png",
+			"name" : "Splash Jam",
+			"rarity" : 5
+		},
+		{
+			"id" : 196,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_an_emerald_bravo_light_large.png",
+			"name" : "Emerald",
+			"rarity" : 4
+		},
+		{
+			"id" : 232,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_hy_webs_darker_light_large.png",
+			"name" : "Crimson Web",
+			"rarity" : 3
+		},
+		{
+			"id" : 298,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_am_army_shine_light_large.png",
+			"name" : "Army Sheen",
+			"rarity" : 1
+		},
+		{
+			"id" : 312,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_cu_scar_cyrex_light_large.png",
+			"name" : "Cyrex",
+			"rarity" : 5
+		},
+		{
+			"id" : 391,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_cu_scar20_intervention_light_large.png",
+			"name" : "Cardiac",
+			"rarity" : 5
+		},
+		{
+			"id" : 406,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_aq_scar20_leak_light_large.png",
+			"name" : "Grotto",
+			"rarity" : 3
+		},
+		{
+			"id" : 502,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_gs_scar20_peacemaker03_light_large.png",
+			"name" : "Green Marine",
+			"rarity" : 3
+		},
+		{
+			"id" : 518,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_hy_scar20_jungler_light_large.png",
+			"name" : "Outbreak",
+			"rarity" : 3
+		},
+		{
+			"id" : 597,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_gs_scar20_bloodsport_light_large.png",
+			"name" : "Bloodsport",
+			"rarity" : 5
+		},
+		{
+			"id" : 612,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_gs_scar20_powercore_light_large.png",
+			"name" : "Powercore",
+			"rarity" : 4
+		},
+		{
+			"id" : 642,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_cu_blueprint_scar_light_large.png",
+			"name" : "Blueprint",
+			"rarity" : 3
+		},
+		{
+			"id" : 685,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_hy_scar20_jungle_slipstream_light_large.png",
+			"name" : "Jungle Slipstream",
+			"rarity" : 3
+		},
+		{
+			"id" : 865,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_hy_canals_tile_light_large.png",
+			"name" : "Stone Mosaico",
+			"rarity" : 1
+		},
+		{
+			"id" : 896,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_sp_scar20_striker_dust_light_large.png",
+			"name" : "Torn",
+			"rarity" : 3
+		},
+		{
+			"id" : 914,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_cu_scar_assault_light_large.png",
+			"name" : "Assault",
+			"rarity" : 3
+		},
+		{
+			"id" : 954,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_gs_scar20_enforcer_light_large.png",
+			"name" : "Enforcer",
+			"rarity" : 4
+		},
+		{
+			"id" : 1028,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_hy_authority_purple_light_large.png",
+			"name" : "Magna Carta",
+			"rarity" : 3
+		},
+		{
+			"id" : 1139,
+			"image_path" : "resource/flash/econ/default_generated/weapon_scar20_sp_scar_chickenfight_light_large.png",
+			"name" : "Poultrygeist",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 28,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_an_navy_light_large.png",
+			"name" : "Anodized Navy",
+			"rarity" : 3
+		},
+		{
+			"id" : 39,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_so_yellow_light_large.png",
+			"name" : "Bulldozer",
+			"rarity" : 4
+		},
+		{
+			"id" : 61,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_aa_vertigo_light_large.png",
+			"name" : "Hypnotic",
+			"rarity" : 4
+		},
+		{
+			"id" : 98,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_so_purple_light_large.png",
+			"name" : "Ultraviolet",
+			"rarity" : 3
+		},
+		{
+			"id" : 101,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_so_tornado_light_large.png",
+			"name" : "Tornado",
+			"rarity" : 1
+		},
+		{
+			"id" : 136,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_sp_tape_dots_waves_light_large.png",
+			"name" : "Waves Perforated",
+			"rarity" : 1
+		},
+		{
+			"id" : 186,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_sp_spray_waves_bravo_light_large.png",
+			"name" : "Wave Spray",
+			"rarity" : 3
+		},
+		{
+			"id" : 243,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_sp_mesh_python_light_large.png",
+			"name" : "Gator Mesh",
+			"rarity" : 2
+		},
+		{
+			"id" : 247,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_aq_damascus_sg553_light_large.png",
+			"name" : "Damascus Steel",
+			"rarity" : 3
+		},
+		{
+			"id" : 287,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_cu_sg553_pulse_light_large.png",
+			"name" : "Pulse",
+			"rarity" : 4
+		},
+		{
+			"id" : 298,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_am_army_shine_light_large.png",
+			"name" : "Army Sheen",
+			"rarity" : 1
+		},
+		{
+			"id" : 363,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_cu_luggage_sg553_light_large.png",
+			"name" : "Traveler",
+			"rarity" : 2
+		},
+		{
+			"id" : 378,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_sp_nukestripe_maroon_sg553_light_large.png",
+			"name" : "Fallout Warning",
+			"rarity" : 2
+		},
+		{
+			"id" : 487,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_cu_sg553_cyrex_light_large.png",
+			"name" : "Cyrex",
+			"rarity" : 5
+		},
+		{
+			"id" : 519,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_gs_sg553_tiger_moth_light_large.png",
+			"name" : "Tiger Moth",
+			"rarity" : 4
+		},
+		{
+			"id" : 750,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_cu_sg553_rally_light_large.png",
+			"name" : "Integrale",
+			"rarity" : 5
+		},
+		{
+			"id" : 553,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_cu_sg553_atlas_light_large.png",
+			"name" : "Atlas",
+			"rarity" : 3
+		},
+		{
+			"id" : 598,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_cu_sg553_aerial_light_large.png",
+			"name" : "Aerial",
+			"rarity" : 3
+		},
+		{
+			"id" : 613,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_cu_sg556_triarch_light_large.png",
+			"name" : "Triarch",
+			"rarity" : 4
+		},
+		{
+			"id" : 686,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_gs_sg553_phantom_light_large.png",
+			"name" : "Phantom",
+			"rarity" : 4
+		},
+		{
+			"id" : 702,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_sp_sg533_aloha_light_large.png",
+			"name" : "Aloha",
+			"rarity" : 3
+		},
+		{
+			"id" : 864,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_so_red_sg553_light_large.png",
+			"name" : "Candy Apple",
+			"rarity" : 2
+		},
+		{
+			"id" : 861,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_sp_asgard_wall_light_large.png",
+			"name" : "Barricade",
+			"rarity" : 1
+		},
+		{
+			"id" : 815,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_gs_sg553_over_heated_light_large.png",
+			"name" : "Danger Close",
+			"rarity" : 3
+		},
+		{
+			"id" : 897,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_cu_sg553_reactor_light_large.png",
+			"name" : "Colony IV",
+			"rarity" : 5
+		},
+		{
+			"id" : 934,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_sp_desert_skulls_light_large.png",
+			"name" : "Bleached",
+			"rarity" : 1
+		},
+		{
+			"id" : 765,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_aa_desert_bloom_bright_light_large.png",
+			"name" : "Desert Blossom",
+			"rarity" : 3
+		},
+		{
+			"id" : 955,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_cu_sg553_darkwing_light_large.png",
+			"name" : "Darkwing",
+			"rarity" : 4
+		},
+		{
+			"id" : 966,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_gs_sg553_rusty_light_large.png",
+			"name" : "Ol' Rusty",
+			"rarity" : 3
+		},
+		{
+			"id" : 1022,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_aa_ruins_green_light_large.png",
+			"name" : "Lush Ruins",
+			"rarity" : 1
+		},
+		{
+			"id" : 1048,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_gs_sg553_deathmetal_light_large.png",
+			"name" : "Heavy Metal",
+			"rarity" : 3
+		},
+		{
+			"id" : 1084,
+			"image_path" : "resource/flash/econ/default_generated/weapon_sg556_cu_sg553_caution_light_large.png",
+			"name" : "Hazard Pay",
+			"rarity" : 5
+		}
+	],
+	[
+		{
+			"id" : 26,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_sp_short_tape_light_large.png",
+			"name" : "Lichen Dashed",
+			"rarity" : 1
+		},
+		{
+			"id" : 60,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_am_zebra_dark_light_large.png",
+			"name" : "Dark Water",
+			"rarity" : 3
+		},
+		{
+			"id" : 70,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_am_carbon_fiber_light_large.png",
+			"name" : "Carbon Fiber",
+			"rarity" : 2
+		},
+		{
+			"id" : 96,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_so_moss_light_large.png",
+			"name" : "Blue Spruce",
+			"rarity" : 1
+		},
+		{
+			"id" : 99,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_so_sand_light_large.png",
+			"name" : "Sand Dune",
+			"rarity" : 1
+		},
+		{
+			"id" : 147,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_sp_tape_short_jungle_light_large.png",
+			"name" : "Jungle Dashed",
+			"rarity" : 1
+		},
+		{
+			"id" : 200,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_hy_mayan_dreams_bravo_light_large.png",
+			"name" : "Mayan Dreams",
+			"rarity" : 2
+		},
+		{
+			"id" : 222,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_cu_shark_light_large.png",
+			"name" : "Blood in the Water",
+			"rarity" : 6
+		},
+		{
+			"id" : 233,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_sp_palm_shadow_light_large.png",
+			"name" : "Tropical Storm",
+			"rarity" : 2
+		},
+		{
+			"id" : 253,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_aa_fade_grassland_light_large.png",
+			"name" : "Acid Fade",
+			"rarity" : 3
+		},
+		{
+			"id" : 304,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_cu_ssg08_immortal_light_large.png",
+			"name" : "Slashed",
+			"rarity" : 3
+		},
+		{
+			"id" : 319,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_hy_ssg08_marker_light_large.png",
+			"name" : "Detour",
+			"rarity" : 3
+		},
+		{
+			"id" : 361,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_aq_leviathan_light_large.png",
+			"name" : "Abyss",
+			"rarity" : 3
+		},
+		{
+			"id" : 503,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_cu_ssg08_technicality_light_large.png",
+			"name" : "Big Iron",
+			"rarity" : 5
+		},
+		{
+			"id" : 538,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_cu_ssg08_necropos_light_large.png",
+			"name" : "Necropos",
+			"rarity" : 3
+		},
+		{
+			"id" : 751,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_gs_ssg08_checker_light_large.png",
+			"name" : "Hand Brake",
+			"rarity" : 3
+		},
+		{
+			"id" : 554,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_gs_ssg08_armacore_light_large.png",
+			"name" : "Ghost Crusader",
+			"rarity" : 4
+		},
+		{
+			"id" : 624,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_cu_ssg08_dragonfire_scope_light_large.png",
+			"name" : "Dragonfire",
+			"rarity" : 6
+		},
+		{
+			"id" : 670,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_cu_ssg08_deathshead_light_large.png",
+			"name" : "Death's Head",
+			"rarity" : 4
+		},
+		{
+			"id" : 868,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_hy_flowers_stmarc_light_large.png",
+			"name" : "Sea Calico",
+			"rarity" : 4
+		},
+		{
+			"id" : 743,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_hy_ren_orange_light_large.png",
+			"name" : "Orange Filigree",
+			"rarity" : 3
+		},
+		{
+			"id" : 762,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_so_rune_stone_light_large.png",
+			"name" : "Red Stone",
+			"rarity" : 1
+		},
+		{
+			"id" : 899,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_cu_ssg08_tickler_light_large.png",
+			"name" : "Bloodshot",
+			"rarity" : 5
+		},
+		{
+			"id" : 935,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_sp_zebracam_red_light_large.png",
+			"name" : "Prey",
+			"rarity" : 1
+		},
+		{
+			"id" : 1052,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_cu_ssg08_scorpion_light_large.png",
+			"name" : "Death Strike",
+			"rarity" : 5
+		},
+		{
+			"id" : 956,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_cu_ssg08_fever_dream_light_large.png",
+			"name" : "Fever Dream",
+			"rarity" : 4
+		},
+		{
+			"id" : 967,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_cu_ssg08_mainframe_light_large.png",
+			"name" : "Mainframe 001",
+			"rarity" : 3
+		},
+		{
+			"id" : 989,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_cu_ssg08_chromatic_light_large.png",
+			"name" : "Parallax",
+			"rarity" : 4
+		},
+		{
+			"id" : 996,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_am_intelligence_orange_light_large.png",
+			"name" : "Threat Detected",
+			"rarity" : 3
+		},
+		{
+			"id" : 1060,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_hy_trainarchitect_green_light_large.png",
+			"name" : "Spring Twilly",
+			"rarity" : 3
+		},
+		{
+			"id" : 1101,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ssg08_cu_ssg_overtake_light_large.png",
+			"name" : "Turbo Peek",
+			"rarity" : 5
+		}
+	],
+	[
+		{
+			"id" : 2,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_so_olive_light_large.png",
+			"name" : "Groundwater",
+			"rarity" : 1
+		},
+		{
+			"id" : 17,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_hy_ddpat_urb_light_large.png",
+			"name" : "Urban DDPAT",
+			"rarity" : 1
+		},
+		{
+			"id" : 36,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_am_ossify_light_large.png",
+			"name" : "Ossified",
+			"rarity" : 3
+		},
+		{
+			"id" : 159,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_aq_brass_light_large.png",
+			"name" : "Brass",
+			"rarity" : 3
+		},
+		{
+			"id" : 179,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_sp_nukestripe_green_tec9_light_large.png",
+			"name" : "Nuclear Threat",
+			"rarity" : 4
+		},
+		{
+			"id" : 206,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_so_tornado_bravo_light_large.png",
+			"name" : "Tornado",
+			"rarity" : 1
+		},
+		{
+			"id" : 216,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_an_titanium30v_light_large.png",
+			"name" : "Blue Titanium",
+			"rarity" : 3
+		},
+		{
+			"id" : 235,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_hy_varicamo_light_large.png",
+			"name" : "VariCamo",
+			"rarity" : 2
+		},
+		{
+			"id" : 242,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_sp_mesh_army_light_large.png",
+			"name" : "Army Mesh",
+			"rarity" : 1
+		},
+		{
+			"id" : 248,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_am_crystallized_light_large.png",
+			"name" : "Red Quartz",
+			"rarity" : 4
+		},
+		{
+			"id" : 272,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_am_fluted_tec9_light_large.png",
+			"name" : "Titanium Bit",
+			"rarity" : 4
+		},
+		{
+			"id" : 289,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_cu_tec9_sandstorm_light_large.png",
+			"name" : "Sandstorm",
+			"rarity" : 3
+		},
+		{
+			"id" : 303,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_cu_tec9_asiimov_light_large.png",
+			"name" : "Isaac",
+			"rarity" : 3
+		},
+		{
+			"id" : 374,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_hy_nuclear_skulls5_tec9_light_large.png",
+			"name" : "Toxic",
+			"rarity" : 3
+		},
+		{
+			"id" : 439,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_hy_hades_light_large.png",
+			"name" : "Hades",
+			"rarity" : 2
+		},
+		{
+			"id" : 459,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_hy_bamboo_jungle_light_large.png",
+			"name" : "Bamboo Forest",
+			"rarity" : 1
+		},
+		{
+			"id" : 463,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_hy_geometric_steps_yellow_light_large.png",
+			"name" : "Terrace",
+			"rarity" : 3
+		},
+		{
+			"id" : 520,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_cu_tec9_avalanche_light_large.png",
+			"name" : "Avalanche",
+			"rarity" : 4
+		},
+		{
+			"id" : 539,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_gs_tec9_jambiya_light_large.png",
+			"name" : "Jambiya",
+			"rarity" : 3
+		},
+		{
+			"id" : 791,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_gs_tec9_envoy_light_large.png",
+			"name" : "Remote Control",
+			"rarity" : 5
+		},
+		{
+			"id" : 795,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_hy_mesh_safetyorange_light_large.png",
+			"name" : "Safety Net",
+			"rarity" : 3
+		},
+		{
+			"id" : 555,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_am_tec9_redblast_light_large.png",
+			"name" : "Re-Entry",
+			"rarity" : 4
+		},
+		{
+			"id" : 599,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_am_tec_9_sea_salt_light_large.png",
+			"name" : "Ice Cap",
+			"rarity" : 3
+		},
+		{
+			"id" : 614,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_gs_tec9_supercharged_light_large.png",
+			"name" : "Fuel Injector",
+			"rarity" : 5
+		},
+		{
+			"id" : 671,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_aq_tec9_chalk_pattern_light_large.png",
+			"name" : "Cut Out",
+			"rarity" : 3
+		},
+		{
+			"id" : 684,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_cu_tec9_cracked_opal_light_large.png",
+			"name" : "Cracked Opal",
+			"rarity" : 3
+		},
+		{
+			"id" : 722,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_cu_tec9_snake_light_large.png",
+			"name" : "Snek-9",
+			"rarity" : 3
+		},
+		{
+			"id" : 733,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_sp_leaf_orange_light_large.png",
+			"name" : "Rust Leaf",
+			"rarity" : 2
+		},
+		{
+			"id" : 738,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_hy_murano_orange_light_large.png",
+			"name" : "Orange Murano",
+			"rarity" : 2
+		},
+		{
+			"id" : 816,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_gs_tec9_fubar_light_large.png",
+			"name" : "Fubar",
+			"rarity" : 3
+		},
+		{
+			"id" : 839,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_cu_tec9_bamboo_light_large.png",
+			"name" : "Bamboozle",
+			"rarity" : 4
+		},
+		{
+			"id" : 889,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_gs_tec9_decimator_light_large.png",
+			"name" : "Decimator",
+			"rarity" : 5
+		},
+		{
+			"id" : 905,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_cu_tec9_flash_light_large.png",
+			"name" : "Flash Out",
+			"rarity" : 3
+		},
+		{
+			"id" : 964,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_gs_tec9_guerilla_light_large.png",
+			"name" : "Brother",
+			"rarity" : 4
+		},
+		{
+			"id" : 1010,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_hy_phoenix_tags_lilac_light_large.png",
+			"name" : "Phoenix Chalk",
+			"rarity" : 1
+		},
+		{
+			"id" : 1024,
+			"image_path" : "resource/flash/econ/default_generated/weapon_tec9_hy_ancient_tiles_peach_light_large.png",
+			"name" : "Blast From the Past",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 15,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_hy_gelpen_light_large.png",
+			"name" : "Gunsmoke",
+			"rarity" : 2
+		},
+		{
+			"id" : 17,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_hy_ddpat_urb_light_large.png",
+			"name" : "Urban DDPAT",
+			"rarity" : 1
+		},
+		{
+			"id" : 37,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_aa_flames_light_large.png",
+			"name" : "Blaze",
+			"rarity" : 3
+		},
+		{
+			"id" : 70,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_am_carbon_fiber_light_large.png",
+			"name" : "Carbon Fiber",
+			"rarity" : 2
+		},
+		{
+			"id" : 90,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_hy_mottled_sand_light_large.png",
+			"name" : "Mudder",
+			"rarity" : 1
+		},
+		{
+			"id" : 93,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_so_caramel_light_large.png",
+			"name" : "Caramel",
+			"rarity" : 1
+		},
+		{
+			"id" : 169,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_sp_nukestripe_maroon_light_large.png",
+			"name" : "Fallout Warning",
+			"rarity" : 2
+		},
+		{
+			"id" : 175,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_sp_dapple_light_large.png",
+			"name" : "Scorched",
+			"rarity" : 1
+		},
+		{
+			"id" : 193,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_sp_skull_diagram_bravo_light_large.png",
+			"name" : "Bone Pile",
+			"rarity" : 3
+		},
+		{
+			"id" : 250,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_hy_varicamo_red_light_large.png",
+			"name" : "Full Stop",
+			"rarity" : 3
+		},
+		{
+			"id" : 281,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_cu_ump_corporal_light_large.png",
+			"name" : "Corporal",
+			"rarity" : 3
+		},
+		{
+			"id" : 333,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_so_indigo_and_grey_light_large.png",
+			"name" : "Indigo",
+			"rarity" : 1
+		},
+		{
+			"id" : 362,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_hy_lines_orange_light_large.png",
+			"name" : "Labyrinth",
+			"rarity" : 3
+		},
+		{
+			"id" : 392,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_sp_ump45_d-visions_light_large.png",
+			"name" : "Delusion",
+			"rarity" : 3
+		},
+		{
+			"id" : 436,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_am_ump_racer_light_large.png",
+			"name" : "Grand Prix",
+			"rarity" : 4
+		},
+		{
+			"id" : 441,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_cu_labyrinth_light_large.png",
+			"name" : "Minotaur's Labyrinth",
+			"rarity" : 3
+		},
+		{
+			"id" : 488,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_cu_ump45_uproar_light_large.png",
+			"name" : "Riot",
+			"rarity" : 3
+		},
+		{
+			"id" : 778,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_hy_blueprint_bluered_light_large.png",
+			"name" : "Facility Dark",
+			"rarity" : 1
+		},
+		{
+			"id" : 556,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_cu_ump45_primalsaber_light_large.png",
+			"name" : "Primal Saber",
+			"rarity" : 5
+		},
+		{
+			"id" : 615,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_cu_ump45_metritera_light_large.png",
+			"name" : "Briefing",
+			"rarity" : 3
+		},
+		{
+			"id" : 652,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_gs_ump_abyss_light_large.png",
+			"name" : "Scaffold",
+			"rarity" : 4
+		},
+		{
+			"id" : 672,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_aq_ump45_flameflower_light_large.png",
+			"name" : "Metal Flowers",
+			"rarity" : 3
+		},
+		{
+			"id" : 688,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_cu_ump45_x-ray_machine_light_large.png",
+			"name" : "Exposure",
+			"rarity" : 4
+		},
+		{
+			"id" : 704,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_cu_ump45_white_fang_light_large.png",
+			"name" : "Arctic Wolf",
+			"rarity" : 4
+		},
+		{
+			"id" : 725,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_hy_bloom_red_light_large.png",
+			"name" : "Day Lily",
+			"rarity" : 3
+		},
+		{
+			"id" : 802,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_cu_ump_arrows_light_large.png",
+			"name" : "Momentum",
+			"rarity" : 5
+		},
+		{
+			"id" : 851,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_aa_ump45_moonrise_sunset_light_large.png",
+			"name" : "Moonrise",
+			"rarity" : 4
+		},
+		{
+			"id" : 916,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_cu_ump_bomb_light_large.png",
+			"name" : "Plastique",
+			"rarity" : 4
+		},
+		{
+			"id" : 879,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_aa_fade_ump_light_large.png",
+			"name" : "Fade",
+			"rarity" : 5
+		},
+		{
+			"id" : 990,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_gs_ump_gold_bismuth_light_large.png",
+			"name" : "Gold Bismuth",
+			"rarity" : 4
+		},
+		{
+			"id" : 1003,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_cu_ump_crime_scene_light_large.png",
+			"name" : "Crime Scene",
+			"rarity" : 4
+		},
+		{
+			"id" : 1008,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_hy_houndstooth_brown_light_large.png",
+			"name" : "Houndstooth",
+			"rarity" : 2
+		},
+		{
+			"id" : 1049,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_am_ump45_electrowave_light_large.png",
+			"name" : "Oscillator",
+			"rarity" : 3
+		},
+		{
+			"id" : 1085,
+			"image_path" : "resource/flash/econ/default_generated/weapon_ump45_aa_engine_performance_light_large.png",
+			"name" : "Mechanism",
+			"rarity" : 2
+		}
+	],
+	[
+		{
+			"id" : 25,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_sp_leaves_light_large.png",
+			"name" : "Forest Leaves",
+			"rarity" : 1
+		},
+		{
+			"id" : 60,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_am_zebra_dark_light_large.png",
+			"name" : "Dark Water",
+			"rarity" : 3
+		},
+		{
+			"id" : 183,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_hy_siege_bravo_light_large.png",
+			"name" : "Overgrowth",
+			"rarity" : 3
+		},
+		{
+			"id" : 217,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_hy_redtiger_light_large.png",
+			"name" : "Blood Tiger",
+			"rarity" : 2
+		},
+		{
+			"id" : 221,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_am_electric_red_light_large.png",
+			"name" : "Serum",
+			"rarity" : 4
+		},
+		{
+			"id" : 236,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_hy_varicamo_night_light_large.png",
+			"name" : "Night Ops",
+			"rarity" : 2
+		},
+		{
+			"id" : 277,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_aq_usp_stainless_light_large.png",
+			"name" : "Stainless",
+			"rarity" : 2
+		},
+		{
+			"id" : 290,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usp_elegant_light_large.png",
+			"name" : "Guardian",
+			"rarity" : 3
+		},
+		{
+			"id" : 313,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usp_spitfire_light_large.png",
+			"name" : "Orion",
+			"rarity" : 4
+		},
+		{
+			"id" : 318,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usp_sandpapered_light_large.png",
+			"name" : "Road Rash",
+			"rarity" : 3
+		},
+		{
+			"id" : 332,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_hy_indigo_usp_light_large.png",
+			"name" : "Royal Blue",
+			"rarity" : 1
+		},
+		{
+			"id" : 339,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_kaiman_light_large.png",
+			"name" : "Caiman",
+			"rarity" : 4
+		},
+		{
+			"id" : 364,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_luggage_usp-s_light_large.png",
+			"name" : "Business Class",
+			"rarity" : 2
+		},
+		{
+			"id" : 443,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_sp_labyrinth2_light_large.png",
+			"name" : "Pathfinder",
+			"rarity" : 1
+		},
+		{
+			"id" : 454,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_so_khaki_green_light_large.png",
+			"name" : "Para Green",
+			"rarity" : 1
+		},
+		{
+			"id" : 489,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usp_progressiv_light_large.png",
+			"name" : "Torque",
+			"rarity" : 2
+		},
+		{
+			"id" : 504,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usp_kill_confirmed_light_large.png",
+			"name" : "Kill Confirmed",
+			"rarity" : 5
+		},
+		{
+			"id" : 540,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_gs_usp_voltage_light_large.png",
+			"name" : "Lead Conduit",
+			"rarity" : 2
+		},
+		{
+			"id" : 796,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_sp_mesh_safetyred_light_large.png",
+			"name" : "Check Engine",
+			"rarity" : 2
+		},
+		{
+			"id" : 572,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_am_gamma_doppler_phase4_light_large.png",
+			"name" : "Gamma Doppler",
+			"rarity" : 4
+		},
+		{
+			"id" : 637,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usp_cyrex_light_large.png",
+			"name" : "Cyrex",
+			"rarity" : 3
+		},
+		{
+			"id" : 653,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usps_noir_light_large.png",
+			"name" : "Neo-Noir",
+			"rarity" : 5
+		},
+		{
+			"id" : 657,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usps_blueprint_light_large.png",
+			"name" : "Blueprint",
+			"rarity" : 2
+		},
+		{
+			"id" : 705,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usp_cut_light_large.png",
+			"name" : "Cortex",
+			"rarity" : 4
+		},
+		{
+			"id" : 817,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usp_flashback_light_large.png",
+			"name" : "Flashback",
+			"rarity" : 3
+		},
+		{
+			"id" : 922,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_am_lizard_red_light_large.png",
+			"name" : "Orange Anolis",
+			"rarity" : 3
+		},
+		{
+			"id" : 818,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_am_ddpat_purple_light_large.png",
+			"name" : "Purple DDPAT",
+			"rarity" : 2
+		},
+		{
+			"id" : 991,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usp_krokos_light_large.png",
+			"name" : "Monster Mashup",
+			"rarity" : 4
+		},
+		{
+			"id" : 1027,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_am_intelligence_magenta_light_large.png",
+			"name" : "Target Acquired",
+			"rarity" : 4
+		},
+		{
+			"id" : 1031,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_sp_ancient_bright_light_large.png",
+			"name" : "Ancient Visions",
+			"rarity" : 3
+		},
+		{
+			"id" : 1040,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_gs_usps_hangedman_light_large.png",
+			"name" : "The Traitor",
+			"rarity" : 5
+		},
+		{
+			"id" : 1065,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_so_whiteout_riptide_light_large.png",
+			"name" : "Whiteout",
+			"rarity" : 4
+		},
+		{
+			"id" : 1102,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usp_black_lotus_light_large.png",
+			"name" : "Black Lotus",
+			"rarity" : 2
+		},
+		{
+			"id" : 1136,
+			"image_path" : "resource/flash/econ/default_generated/weapon_usp_silencer_cu_usp_to_hell_light_large.png",
+			"name" : "Ticket to Hell",
+			"rarity" : 3
+		}
+	],
+	[
+		{
+			"id" : 42,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_aq_blued_light_large.png",
+			"name" : "Blue Steel",
+			"rarity" : 2
+		},
+		{
+			"id" : 95,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_so_grassland_light_large.png",
+			"name" : "Grassland",
+			"rarity" : 1
+		},
+		{
+			"id" : 96,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_so_moss_light_large.png",
+			"name" : "Blue Spruce",
+			"rarity" : 1
+		},
+		{
+			"id" : 135,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_sp_tape_dots_urban_light_large.png",
+			"name" : "Urban Perforated",
+			"rarity" : 1
+		},
+		{
+			"id" : 166,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_hy_hunter_blaze_orange_light_large.png",
+			"name" : "Blaze Orange",
+			"rarity" : 3
+		},
+		{
+			"id" : 169,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_sp_nukestripe_maroon_light_large.png",
+			"name" : "Fallout Warning",
+			"rarity" : 2
+		},
+		{
+			"id" : 205,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_so_jungle_bravo_light_large.png",
+			"name" : "Jungle",
+			"rarity" : 1
+		},
+		{
+			"id" : 238,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_hy_varicamo_blue_light_large.png",
+			"name" : "VariCamo Blue",
+			"rarity" : 3
+		},
+		{
+			"id" : 240,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_hy_varicamo_desert_light_large.png",
+			"name" : "CaliCamo",
+			"rarity" : 2
+		},
+		{
+			"id" : 314,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_cu_xm1014_heaven_guard_light_large.png",
+			"name" : "Heaven Guard",
+			"rarity" : 4
+		},
+		{
+			"id" : 320,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_hy_snakeskin_red_light_large.png",
+			"name" : "Red Python",
+			"rarity" : 3
+		},
+		{
+			"id" : 348,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_cu_leather_xm1014_light_large.png",
+			"name" : "Red Leather",
+			"rarity" : 3
+		},
+		{
+			"id" : 370,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_am_nuclear_skulls1_xm1014_light_large.png",
+			"name" : "Bone Machine",
+			"rarity" : 3
+		},
+		{
+			"id" : 393,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_cu_xm1014_caritas_light_large.png",
+			"name" : "Tranquility",
+			"rarity" : 5
+		},
+		{
+			"id" : 407,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_aq_xm1014_sigla_light_large.png",
+			"name" : "Quicksilver",
+			"rarity" : 3
+		},
+		{
+			"id" : 505,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_aq_xm1014_scumbria_light_large.png",
+			"name" : "Scumbria",
+			"rarity" : 3
+		},
+		{
+			"id" : 521,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_aq_xm1014_hot_rod_light_large.png",
+			"name" : "Teclu Burner",
+			"rarity" : 4
+		},
+		{
+			"id" : 557,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_cu_xm1014_spectrum_light_large.png",
+			"name" : "Black Tie",
+			"rarity" : 4
+		},
+		{
+			"id" : 616,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_hy_xm1014_fractal_blue_light_large.png",
+			"name" : "Slipstream",
+			"rarity" : 3
+		},
+		{
+			"id" : 654,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_aq_xm_leaf_fade_light_large.png",
+			"name" : "Seasons",
+			"rarity" : 4
+		},
+		{
+			"id" : 689,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_aq_xm1014_ziggy_anarchy_light_large.png",
+			"name" : "Ziggy",
+			"rarity" : 4
+		},
+		{
+			"id" : 706,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_cu_xm1014_oxide_blaze_light_large.png",
+			"name" : "Oxide Blaze",
+			"rarity" : 3
+		},
+		{
+			"id" : 731,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_hy_leaf_green_light_large.png",
+			"name" : "Banana Leaf",
+			"rarity" : 2
+		},
+		{
+			"id" : 760,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_am_knots_silver_light_large.png",
+			"name" : "Frost Borre",
+			"rarity" : 3
+		},
+		{
+			"id" : 850,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_cu_xm1014_incinerator_light_large.png",
+			"name" : "Incinegator",
+			"rarity" : 5
+		},
+		{
+			"id" : 821,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_am_moro_textile_bright_light_large.png",
+			"name" : "Elegant Vines",
+			"rarity" : 4
+		},
+		{
+			"id" : 970,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_cu_xm1014_amulet_blue_light_large.png",
+			"name" : "Entombed",
+			"rarity" : 5
+		},
+		{
+			"id" : 994,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_am_authority_brown_light_large.png",
+			"name" : "Charter",
+			"rarity" : 1
+		},
+		{
+			"id" : 1021,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_am_ancient_warm_light_large.png",
+			"name" : "Ancient Lore",
+			"rarity" : 4
+		},
+		{
+			"id" : 1046,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_aq_xm1014_punk_light_large.png",
+			"name" : "XOXO",
+			"rarity" : 5
+		},
+		{
+			"id" : 1078,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_sp_tire_tread_blue_light_large.png",
+			"name" : "Blue Tire",
+			"rarity" : 1
+		},
+		{
+			"id" : 1103,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_gs_xm1014_watchdog_light_large.png",
+			"name" : "Watchdog",
+			"rarity" : 3
+		},
+		{
+			"id" : 1135,
+			"image_path" : "resource/flash/econ/default_generated/weapon_xm1014_am_xm_zombie_offensive_light_large.png",
+			"name" : "Zombie Offensive",
+			"rarity" : 4
+		}
+	]
+]
